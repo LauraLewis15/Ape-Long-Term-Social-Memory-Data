@@ -1,0 +1,525 @@
+﻿Subject,Subject_Age,TrialName,Subject_Sex,Population,Actual_Total_Trial_Number,Avatar_Sex,Fam_ID,Unfam_ID,MediaName,IngroupSum,OutgroupSum,Years_Apart,Years_Together,Kin_Nonkin,Raw_Differences,DLS,Species,DummyPop,Avatar_Age,AvatarDyad,ParticipantDyad,Z_Transformed_TrialNum
+Djanoa,23.48528405,Djanoa_Opa_Her,F,Planckendael,1,F,Hermein,Opala,Opa_Her,1.383,0.285,9.98,7.51,Nonkin,1.098,0.658273381,Bonobo,0,OldAdult,Hermein_Opala,Djanoa_Hermein,-1.543674159
+Djanoa,23.48528405,Djanoa_Ling_Wak,F,Planckendael,2,F,Lingoye,Waka,Ling_Wak,0.558,0.935,3.39,7.42,Nonkin,-0.377,-0.252511721,Bonobo,0,Adolescent,Lingoye_Waka,Djanoa_Lingoye,-1.445197745
+Djanoa,23.48528405,Djanoa_Kal_Lom,F,Planckendael,3,F,Lomela,Kalina,Kal_Lom,2.29,0.384,10.4,1,Nonkin,1.906,0.712789828,Bonobo,0,YoungAdult,Lomela_Kalina,Djanoa_Lomela,-1.346721332
+Djanoa,23.48528405,Djanoa_Wak_Ling,F,Planckendael,6,F,Lingoye,Waka,Wak_Ling,0.284,0.459,3.39,7.42,Nonkin,-0.175,-0.235531629,Bonobo,0,Adolescent,Lingoye_Waka,Djanoa_Lingoye,-1.051292092
+Djanoa,23.48528405,Djanoa_Lom_Kal,F,Planckendael,7,F,Lomela,Kalina,Lom_Kal,0.293,2.141,10.4,1,Nonkin,-1.848,-0.759244043,Bonobo,0,YoungAdult,Lomela_Kalina,Djanoa_Lomela,-0.952815679
+Djanoa,23.48528405,Djanoa_Luk_Ling,F,Planckendael,16,F,Lingoye,Lukuru,Luk_Ling,0,0.126,3.39,7.42,Nonkin,-0.126,-1,Bonobo,0,Adolescent,Lingoye_Lukuru,Djanoa_Lingoye,-0.066527959
+Djanoa,23.48528405,Djanoa_Luk_Jas,F,Planckendael,8,F,Jasiri,Lukuru,Luk_Jas,1.551,0.259,9.15,2.25,Nonkin,1.292,0.713812155,Bonobo,0,Adolescent,Jasiri_Lukuru,Djanoa_Jasiri,-0.854339265
+Djanoa,23.48528405,Djanoa_Jas_Luk,F,Planckendael,4,F,Jasiri,Lukuru,Jas_Luk,0.334,1.591,9.15,2.25,Nonkin,-1.257,-0.652987013,Bonobo,0,Adolescent,Jasiri_Lukuru,Djanoa_Jasiri,-1.248244919
+Djanoa,23.48528405,Djanoa_Her_Opa,F,Planckendael,5,F,Hermein,Opala,Her_Opa,2.259,0.251,9.98,7.51,Nonkin,2.008,0.8,Bonobo,0,OldAdult,Hermein_Opala,Djanoa_Hermein,-1.149768505
+Djanoa,23.48528405,Djanoa_Ling_Luk,F,Planckendael,10,F,Lingoye,Lukuru,Ling_Luk,0.234,0.651,3.39,7.42,Nonkin,-0.417,-0.471186441,Bonobo,0,Adolescent,Lingoye_Lukuru,Djanoa_Lingoye,-0.657386439
+Djanoa,23.48528405,Djanoa_Opa_Lom,F,Planckendael,14,F,Lomela,Opala,Opa_Lom,0.076,0.151,10.4,1,Nonkin,-0.075,-0.330396476,Bonobo,0,YoungAdult,Lomela_Opala,Djanoa_Lomela,-0.263480785
+Djanoa,23.48528405,Djanoa_Lom_Opa,F,Planckendael,11,F,Lomela,Opala,Lom_Opa,0.543,0.576,10.4,1,Nonkin,-0.033,-0.029490617,Bonobo,0,YoungAdult,Lomela_Opala,Djanoa_Lomela,-0.558910025
+Djanoa,23.48528405,Djanoa_Wak_Jas,F,Planckendael,12,F,Jasiri,Waka,Wak_Jas,0.467,0.218,9.15,2.25,Nonkin,0.249,0.36350365,Bonobo,0,Adolescent,Jasiri_Waka,Djanoa_Jasiri,-0.460433612
+Djanoa,23.48528405,Djanoa_Jas_Wak,F,Planckendael,15,F,Jasiri,Waka,Jas_Wak,0.143,0.093,9.15,2.25,Nonkin,0.05,0.211864407,Bonobo,0,Adolescent,Jasiri_Waka,Djanoa_Jasiri,-0.165004372
+Djanoa,23.48528405,Djanoa_Her_Kal,F,Planckendael,13,F,Hermein,Kalina,Her_Kal,0.118,1.261,9.98,7.51,Nonkin,-1.143,-0.828861494,Bonobo,0,OldAdult,Hermein_Kalina,Djanoa_Hermein,-0.361957199
+Djanoa,23.48528405,Djanoa_Kal_Her,F,Planckendael,9,F,Hermein,Kalina,Kal_Her,0,0.776,9.98,7.51,Nonkin,-0.776,-1,Bonobo,0,OldAdult,Hermein_Kalina,Djanoa_Hermein,-0.755862852
+Edith,22.2587269,Edith_Unyo_Kin,F,Edinburgh,24,M,Kindia,Unyoro,Unyo_Kin,0.951,0.101,0.73,7.83,Nonkin,0.85,0.807984791,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Edith_Kindia,0.721283348
+Edith,22.2587269,Edith_Bram_Kofi,F,Edinburgh,25,M,Bram,Kofi,Bram_Kofi,1.559,0.725,8.15,3.71,Nonkin,0.834,0.365148862,Chimpanzee,0,YoungAdult,Bram_Kofi,Edith_Bram,0.819759761
+Edith,22.2587269,Edith_Loi_Rick,F,Edinburgh,33,M,Ricky,Loi,Loi_Rick,0.543,0.168,6.99,1.57,Nonkin,0.375,0.52742616,Chimpanzee,0,OldAdult,Ricky_Loi,Edith_Ricky,1.607571068
+Edith,22.2587269,Edith_Pearl_Fred,F,Edinburgh,7,F,Pearl,Frederike,Pearl_Fred,0.084,0.251,2.32,9.54,Nonkin,-0.167,-0.498507463,Chimpanzee,0,OldAdult,Pearl_Frederike,Edith_Pearl,-0.952815679
+Edith,22.2587269,Edith_Bam_Emma,F,Edinburgh,8,F,Emma,Bambari,Bam_Emma,0.259,0,3.15,5.4,Nonkin,0.259,1,Chimpanzee,0,OldAdult,Emma_Bambari,Edith_Emma,-0.854339265
+Edith,22.2587269,Edith_Rick_Loi,F,Edinburgh,26,M,Ricky,Loi,Rick_Loi,0.076,0.892,6.99,1.57,Nonkin,-0.816,-0.842975207,Chimpanzee,0,OldAdult,Ricky_Loi,Edith_Ricky,0.918236175
+Edith,22.2587269,Edith_Lin_Fred,F,Edinburgh,36,F,Lyndsey,Frederike,Lin_Fred,0.151,0.709,5.91,2.65,Nonkin,-0.558,-0.648837209,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Edith_Lyndsey,1.903000308
+Edith,22.2587269,Edith_Pearl_Bam,F,Edinburgh,1,F,Pearl,Bambari,Pearl_Bam,0.134,0.784,2.32,9.54,Nonkin,-0.65,-0.708061002,Chimpanzee,0,OldAdult,Pearl_Bambari,Edith_Pearl,-1.543674159
+Edith,22.2587269,Edith_Emma_Mis,F,Edinburgh,2,F,Emma,Misaki,Emma_Mis,0.084,0.067,3.15,5.4,Nonkin,0.017,0.112582781,Chimpanzee,0,OldAdult,Emma_Misaki,Edith_Emma,-1.445197745
+Edith,22.2587269,Edith_Fred_Lin,F,Edinburgh,3,F,Lyndsey,Frederike,Fred_Lin,0.226,0.417,5.91,2.65,Nonkin,-0.191,-0.297045101,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Edith_Lyndsey,-1.346721332
+Edith,22.2587269,Edith_Bam_Pearl,F,Edinburgh,34,F,Pearl,Bambari,Bam_Pearl,0,0.609,2.32,9.54,Nonkin,-0.609,-1,Chimpanzee,0,OldAdult,Pearl_Bambari,Edith_Pearl,1.706047482
+Edith,22.2587269,Edith_Mis_Emma,F,Edinburgh,35,F,Emma,Misaki,Mis_Emma,0.917,0,3.15,5.4,Nonkin,0.917,1,Chimpanzee,0,OldAdult,Emma_Misaki,Edith_Emma,1.804523895
+Edith,22.2587269,Edith_Bam_Lin,F,Edinburgh,14,F,Lyndsey,Bambari,Bam_Lin,0.158,0,5.91,2.65,Nonkin,0.158,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Edith_Lyndsey,-0.263480785
+Edith,22.2587269,Edith_Kin_Loi,F,Edinburgh,4,M,Kindia,Loi,Kin_Loi,0.342,0.967,0.73,7.83,Nonkin,-0.625,-0.477463713,Chimpanzee,0,YoungAdult,Kindia_Loi,Edith_Kindia,-1.248244919
+Edith,22.2587269,Edith_Mis_Lin,F,Edinburgh,9,F,Lyndsey,Misaki,Mis_Lin,0.151,0.084,5.91,2.65,Nonkin,0.067,0.285106383,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Edith_Lyndsey,-0.755862852
+Edith,22.2587269,Edith_Fred_Pearl,F,Edinburgh,21,F,Pearl,Frederike,Fred_Pearl,0.967,0.426,2.32,9.54,Nonkin,0.541,0.388370424,Chimpanzee,0,OldAdult,Pearl_Frederike,Edith_Pearl,0.425854108
+Edith,22.2587269,Edith_Pearl_Mis,F,Edinburgh,30,F,Pearl,Misaki,Pearl_Mis,0.542,0.451,2.32,9.54,Nonkin,0.091,0.09164149,Chimpanzee,0,OldAdult,Pearl_Misaki,Edith_Pearl,1.312141828
+Edith,22.2587269,Edith_Fred_Emma,F,Edinburgh,31,F,Emma,Frederike,Fred_Emma,0.909,0,3.15,5.4,Nonkin,0.909,1,Chimpanzee,0,OldAdult,Emma_Frederike,Edith_Emma,1.410618242
+Edith,22.2587269,Edith_Lin_Bam,F,Edinburgh,32,F,Lyndsey,Bambari,Lin_Bam,0.635,0.933,5.91,2.65,Nonkin,-0.298,-0.19005102,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Edith_Lyndsey,1.509094655
+Edith,22.2587269,Edith_Mis_Pearl,F,Edinburgh,12,F,Pearl,Misaki,Mis_Pearl,0.508,0.167,2.32,9.54,Nonkin,0.341,0.505185185,Chimpanzee,0,OldAdult,Pearl_Misaki,Edith_Pearl,-0.460433612
+Edith,22.2587269,Edith_Emma_Fred,F,Edinburgh,13,F,Emma,Frederike,Emma_Fred,0.159,0.154,3.15,5.4,Nonkin,0.005,0.015974441,Chimpanzee,0,OldAdult,Emma_Frederike,Edith_Emma,-0.361957199
+Edith,22.2587269,Edith_Kin_Kofi,F,Edinburgh,15,M,Kindia,Kofi,Kin_Kofi,0.084,0.159,0.73,7.83,Nonkin,-0.075,-0.308641975,Chimpanzee,0,YoungAdult,Kindia_Kofi,Edith_Kindia,-0.165004372
+Edith,22.2587269,Edith_Loi_Bram,F,Edinburgh,16,M,Bram,Loi,Loi_Bram,0.118,0.101,8.15,3.71,Nonkin,0.017,0.077625571,Chimpanzee,0,YoungAdult,Bram_Loi,Edith_Bram,-0.066527959
+Edith,22.2587269,Edith_Bram_Unyo,F,Edinburgh,5,M,Bram,Unyoro,Bram_Unyo,0.184,0.708,8.15,3.71,Nonkin,-0.524,-0.587443946,Chimpanzee,0,YoungAdult,Bram_Unyoro,Edith_Bram,-1.149768505
+Edith,22.2587269,Edith_Kofi_Rick,F,Edinburgh,6,M,Ricky,Kofi,Kofi_Rick,1.493,0.084,6.99,1.57,Nonkin,1.409,0.893468611,Chimpanzee,0,OldAdult,Ricky_Kofi,Edith_Ricky,-1.051292092
+Edith,22.2587269,Edith_Loi_Kin,F,Edinburgh,18,M,Kindia,Loi,Loi_Kin,0,0.067,0.73,7.83,Nonkin,-0.067,-1,Chimpanzee,0,YoungAdult,Kindia_Loi,Edith_Kindia,0.130424868
+Edith,22.2587269,Edith_Unyo_Bram,F,Edinburgh,19,M,Bram,Unyoro,Unyo_Bram,0.919,0.109,8.15,3.71,Nonkin,0.81,0.787937743,Chimpanzee,0,YoungAdult,Bram_Unyoro,Edith_Bram,0.228901281
+Edith,22.2587269,Edith_Emma_Bam,F,Edinburgh,22,F,Emma,Bambari,Emma_Bam,0.126,1.267,3.15,5.4,Nonkin,-1.141,-0.819095477,Chimpanzee,0,OldAdult,Emma_Bambari,Edith_Emma,0.524330521
+Edith,22.2587269,Edith_Lin_Mis,F,Edinburgh,23,F,Lyndsey,Misaki,Lin_Mis,0.967,1.441,5.91,2.65,Nonkin,-0.474,-0.196843854,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Edith_Lyndsey,0.622806935
+Edith,22.2587269,Edith_Kofi_Bram,F,Edinburgh,11,M,Bram,Kofi,Kofi_Bram,0,0.485,8.15,3.71,Nonkin,-0.485,-1,Chimpanzee,0,YoungAdult,Bram_Kofi,Edith_Bram,-0.558910025
+Edith,22.2587269,Edith_Kofi_Kin,F,Edinburgh,27,M,Kindia,Kofi,Kofi_Kin,0.184,0,0.73,7.83,Nonkin,0.184,1,Chimpanzee,0,YoungAdult,Kindia_Kofi,Edith_Kindia,1.016712588
+Edith,22.2587269,Edith_Bram_Loi,F,Edinburgh,28,M,Bram,Loi,Bram_Loi,0.084,0.434,8.15,3.71,Nonkin,-0.35,-0.675675676,Chimpanzee,0,YoungAdult,Bram_Loi,Edith_Bram,1.115189002
+Edith,22.2587269,Edith_Rick_Kofi,F,Edinburgh,20,M,Ricky,Kofi,Rick_Kofi,0,0.067,6.99,1.57,Nonkin,-0.067,-1,Chimpanzee,0,OldAdult,Ricky_Kofi,Edith_Ricky,0.327377695
+Edith,22.2587269,Edith_Rick_Unyo,F,Edinburgh,17,M,Ricky,Unyoro,Rick_Unyo,0.235,0.318,6.99,1.57,Nonkin,-0.083,-0.150090416,Chimpanzee,0,OldAdult,Ricky_Unyoro,Edith_Ricky,0.031948455
+Edith,22.2587269,Edith_Kin_Unyo,F,Edinburgh,10,M,Kindia,Unyoro,Kin_Unyo,0.443,0.234,0.73,7.83,Nonkin,0.209,0.308714919,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Edith_Kindia,-0.657386439
+Edith,22.2587269,Edith_Unyo_Rick,F,Edinburgh,29,M,Ricky,Unyoro,Unyo_Rick,0.586,0,6.99,1.57,Nonkin,0.586,1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Edith_Ricky,1.213665415
+Eva,37.59616701,Eva_Rick_Unyo,F,Edinburgh,34,M,Ricky,Unyoro,Rick_Unyo,0.543,0,6.99,1.57,Nonkin,0.543,1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Eva_Ricky,1.706047482
+Eva,37.59616701,Eva_Kofi_Kin,F,Edinburgh,36,M,Kindia,Kofi,Kofi_Kin,0.15,0.075,0.73,7.83,Nonkin,0.075,0.333333333,Chimpanzee,0,YoungAdult,Kindia_Kofi,Eva_Kindia,1.903000308
+Eva,37.59616701,Eva_Bram_Loi,F,Edinburgh,25,M,Bram,Loi,Bram_Loi,0.767,0.708,8.15,3.71,Nonkin,0.059,0.04,Chimpanzee,0,YoungAdult,Bram_Loi,Eva_Bram,0.819759761
+Eva,37.59616701,Eva_Fred_Pearl,F,Edinburgh,27,F,Pearl,Frederike,Fred_Pearl,0.868,0.293,2.32,9.54,Nonkin,0.575,0.495262705,Chimpanzee,0,OldAdult,Pearl_Frederike,Eva_Pearl,1.016712588
+Eva,37.59616701,Eva_Emma_Bam,F,Edinburgh,26,F,Emma,Bambari,Emma_Bam,0.592,0.151,3.15,5.4,Nonkin,0.441,0.593539704,Chimpanzee,0,OldAdult,Emma_Bambari,Eva_Emma,0.918236175
+Eva,37.59616701,Eva_Lin_Mis,F,Edinburgh,9,F,Lyndsey,Misaki,Lin_Mis,0,0.093,5.91,2.65,Nonkin,-0.093,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Eva_Lyndsey,-0.755862852
+Eva,37.59616701,Eva_Fred_Lin,F,Edinburgh,32,F,Lyndsey,Frederike,Fred_Lin,0,0.916,5.91,2.65,Nonkin,-0.916,-1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Eva_Lyndsey,1.509094655
+Eva,37.59616701,Eva_Bam_Pearl,F,Edinburgh,4,F,Pearl,Bambari,Bam_Pearl,0.143,0.159,2.32,9.54,Nonkin,-0.016,-0.052980132,Chimpanzee,0,OldAdult,Pearl_Bambari,Eva_Pearl,-1.248244919
+Eva,37.59616701,Eva_Mis_Emma,F,Edinburgh,5,F,Emma,Misaki,Mis_Emma,0,0.86,3.15,5.4,Nonkin,-0.86,-1,Chimpanzee,0,OldAdult,Emma_Misaki,Eva_Emma,-1.149768505
+Eva,37.59616701,Eva_Unyo_Rick,F,Edinburgh,10,M,Ricky,Unyoro,Unyo_Rick,0.226,0,6.99,1.57,Nonkin,0.226,1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Eva_Ricky,-0.657386439
+Eva,37.59616701,Eva_Pearl_Fred,F,Edinburgh,20,F,Pearl,Frederike,Pearl_Fred,0.526,0,2.32,9.54,Nonkin,0.526,1,Chimpanzee,0,OldAdult,Pearl_Frederike,Eva_Pearl,0.327377695
+Eva,37.59616701,Eva_Bam_Emma,F,Edinburgh,28,F,Emma,Bambari,Bam_Emma,0.142,0,3.15,5.4,Nonkin,0.142,1,Chimpanzee,0,OldAdult,Emma_Bambari,Eva_Emma,1.115189002
+Eva,37.59616701,Eva_Mis_Lin,F,Edinburgh,21,F,Lyndsey,Misaki,Mis_Lin,0.068,0,5.91,2.65,Nonkin,0.068,1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Eva_Lyndsey,0.425854108
+Eva,37.59616701,Eva_Lin_Fred,F,Edinburgh,6,F,Lyndsey,Frederike,Lin_Fred,1.425,0.167,5.91,2.65,Nonkin,1.258,0.790201005,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Eva_Lyndsey,-1.051292092
+Eva,37.59616701,Eva_Pearl_Mis,F,Edinburgh,22,F,Pearl,Misaki,Pearl_Mis,0.134,0,2.32,9.54,Nonkin,0.134,1,Chimpanzee,0,OldAdult,Pearl_Misaki,Eva_Pearl,0.524330521
+Eva,37.59616701,Eva_Fred_Emma,F,Edinburgh,23,F,Emma,Frederike,Fred_Emma,0.65,0,3.15,5.4,Nonkin,0.65,1,Chimpanzee,0,OldAdult,Emma_Frederike,Eva_Emma,0.622806935
+Eva,37.59616701,Eva_Lin_Bam,F,Edinburgh,24,F,Lyndsey,Bambari,Lin_Bam,0,0.101,5.91,2.65,Nonkin,-0.101,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Eva_Lyndsey,0.721283348
+Eva,37.59616701,Eva_Rick_Kofi,F,Edinburgh,3,M,Ricky,Kofi,Rick_Kofi,0.426,0.268,6.99,1.57,Nonkin,0.158,0.227665706,Chimpanzee,0,OldAdult,Ricky_Kofi,Eva_Ricky,-1.346721332
+Eva,37.59616701,Eva_Mis_Pearl,F,Edinburgh,11,F,Pearl,Misaki,Mis_Pearl,0.118,0,2.32,9.54,Nonkin,0.118,1,Chimpanzee,0,OldAdult,Pearl_Misaki,Eva_Pearl,-0.558910025
+Eva,37.59616701,Eva_Emma_Fred,F,Edinburgh,12,F,Emma,Frederike,Emma_Fred,0.909,0,3.15,5.4,Nonkin,0.909,1,Chimpanzee,0,OldAdult,Emma_Frederike,Eva_Emma,-0.460433612
+Eva,37.59616701,Eva_Bam_Lin,F,Edinburgh,13,F,Lyndsey,Bambari,Bam_Lin,0.543,0.218,5.91,2.65,Nonkin,0.325,0.427069645,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Eva_Lyndsey,-0.361957199
+Eva,37.59616701,Eva_Kin_Loi,F,Edinburgh,14,M,Kindia,Loi,Kin_Loi,0.626,0.076,0.73,7.83,Nonkin,0.55,0.783475783,Chimpanzee,0,YoungAdult,Kindia_Loi,Eva_Kindia,-0.263480785
+Eva,37.59616701,Eva_Bram_Unyo,F,Edinburgh,15,M,Bram,Unyoro,Bram_Unyo,0.609,0.076,8.15,3.71,Nonkin,0.533,0.77810219,Chimpanzee,0,YoungAdult,Bram_Unyoro,Eva_Bram,-0.165004372
+Eva,37.59616701,Eva_Kofi_Rick,F,Edinburgh,16,M,Ricky,Kofi,Kofi_Rick,0.385,0.251,6.99,1.57,Nonkin,0.134,0.210691824,Chimpanzee,0,OldAdult,Ricky_Kofi,Eva_Ricky,-0.066527959
+Eva,37.59616701,Eva_Loi_Kin,F,Edinburgh,1,M,Kindia,Loi,Loi_Kin,0.917,0.376,0.73,7.83,Nonkin,0.541,0.418406806,Chimpanzee,0,YoungAdult,Kindia_Loi,Eva_Kindia,-1.543674159
+Eva,37.59616701,Eva_Unyo_Bram,F,Edinburgh,2,M,Bram,Unyoro,Unyo_Bram,1.042,0.526,8.15,3.71,Nonkin,0.516,0.329081633,Chimpanzee,0,YoungAdult,Bram_Unyoro,Eva_Bram,-1.445197745
+Eva,37.59616701,Eva_Unyo_Kin,F,Edinburgh,7,M,Kindia,Unyoro,Unyo_Kin,0.193,0.267,0.73,7.83,Nonkin,-0.074,-0.160869565,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Eva_Kindia,-0.952815679
+Eva,37.59616701,Eva_Kin_Unyo,F,Edinburgh,17,M,Kindia,Unyoro,Kin_Unyo,0.084,0,0.73,7.83,Nonkin,0.084,1,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Eva_Kindia,0.031948455
+Eva,37.59616701,Eva_Kofi_Bram,F,Edinburgh,18,M,Bram,Kofi,Kofi_Bram,0.226,0.276,8.15,3.71,Nonkin,-0.05,-0.099601594,Chimpanzee,0,YoungAdult,Bram_Kofi,Eva_Bram,0.130424868
+Eva,37.59616701,Eva_Loi_Rick,F,Edinburgh,19,M,Ricky,Loi,Loi_Rick,0,0.326,6.99,1.57,Nonkin,-0.326,-1,Chimpanzee,0,OldAdult,Ricky_Loi,Eva_Ricky,0.228901281
+Eva,37.59616701,Eva_Clau_Kofi,F,Edinburgh,33,M,Claus,Kofi,Clau_Kofi,0.717,0.151,6.96,NA,Kin,0.566,0.652073733,Chimpanzee,0,YoungAdult,Claus_Kofi,Eva_Claus,1.607571068
+Eva,37.59616701,Eva_Bram_Kofi,F,Edinburgh,35,M,Bram,Kofi,Bram_Kofi,0.276,0.251,8.15,3.71,Nonkin,0.025,0.04743833,Chimpanzee,0,YoungAdult,Bram_Kofi,Eva_Bram,1.804523895
+Eva,37.59616701,Eva_Rick_Loi,F,Edinburgh,8,M,Ricky,Loi,Rick_Loi,0.902,0,6.99,1.57,Nonkin,0.902,1,Chimpanzee,0,OldAdult,Ricky_Loi,Eva_Ricky,-0.854339265
+Eva,37.59616701,Eva_Loi_Bram,F,Edinburgh,29,M,Bram,Loi,Loi_Bram,0.092,0,8.15,3.71,Nonkin,0.092,1,Chimpanzee,0,YoungAdult,Bram_Loi,Eva_Bram,1.213665415
+Eva,37.59616701,Eva_Pearl_Bam,F,Edinburgh,30,F,Pearl,Bambari,Pearl_Bam,0.76,0.168,2.32,9.54,Nonkin,0.592,0.637931034,Chimpanzee,0,OldAdult,Pearl_Bambari,Eva_Pearl,1.312141828
+Eva,37.59616701,Eva_Emma_Mis,F,Edinburgh,31,F,Emma,Misaki,Emma_Mis,0.193,2.04,3.15,5.4,Nonkin,-1.847,-0.827138379,Chimpanzee,0,OldAdult,Emma_Misaki,Eva_Emma,1.410618242
+Frek,24.73100616,Frek_Fred_Pearl,M,Edinburgh,7,F,Pearl,Frederike,Fred_Pearl,0.176,0.701,2.32,9.54,Nonkin,-0.525,-0.598631699,Chimpanzee,0,OldAdult,Pearl_Frederike,Frek_Pearl,-0.952815679
+Frek,24.73100616,Frek_Emma_Bam,M,Edinburgh,8,F,Emma,Bambari,Emma_Bam,0.767,0.442,3.15,5.4,Nonkin,0.325,0.268817204,Chimpanzee,0,OldAdult,Emma_Bambari,Frek_Emma,-0.854339265
+Frek,24.73100616,Frek_Lin_Mis,M,Edinburgh,9,F,Lyndsey,Misaki,Lin_Mis,0.334,0,5.91,2.65,Nonkin,0.334,1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Frek_Lyndsey,-0.755862852
+Frek,24.73100616,Frek_Pearl_Mis,M,Edinburgh,34,F,Pearl,Misaki,Pearl_Mis,0.151,0.184,2.32,9.54,Nonkin,-0.033,-0.098507463,Chimpanzee,0,OldAdult,Pearl_Misaki,Frek_Pearl,1.706047482
+Frek,24.73100616,Frek_Fred_Emma,M,Edinburgh,27,F,Emma,Frederike,Fred_Emma,0.293,0,3.15,5.4,Nonkin,0.293,1,Chimpanzee,0,OldAdult,Emma_Frederike,Frek_Emma,1.016712588
+Frek,24.73100616,Frek_Lin_Bam,M,Edinburgh,28,F,Lyndsey,Bambari,Lin_Bam,0,0.45,5.91,2.65,Nonkin,-0.45,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Frek_Lyndsey,1.115189002
+Frek,24.73100616,Frek_Mis_Pearl,M,Edinburgh,12,F,Pearl,Misaki,Mis_Pearl,1.026,0.134,2.32,9.54,Nonkin,0.892,0.768965517,Chimpanzee,0,OldAdult,Pearl_Misaki,Frek_Pearl,-0.460433612
+Frek,24.73100616,Frek_Emma_Fred,M,Edinburgh,13,F,Emma,Frederike,Emma_Fred,0,0.991,3.15,5.4,Nonkin,-0.991,-1,Chimpanzee,0,OldAdult,Emma_Frederike,Frek_Emma,-0.361957199
+Frek,24.73100616,Frek_Bam_Lin,M,Edinburgh,14,F,Lyndsey,Bambari,Bam_Lin,0,0.967,5.91,2.65,Nonkin,-0.967,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Frek_Lyndsey,-0.263480785
+Frek,24.73100616,Frek_Kin_Loi,M,Edinburgh,21,M,Kindia,Loi,Kin_Loi,0.459,0.151,0.73,7.83,Nonkin,0.308,0.504918033,Chimpanzee,0,YoungAdult,Kindia_Loi,Frek_Kindia,0.425854108
+Frek,24.73100616,Frek_Kofi_Rick,M,Edinburgh,23,M,Ricky,Kofi,Kofi_Rick,0.293,0.076,6.99,1.57,Nonkin,0.217,0.588075881,Chimpanzee,0,OldAdult,Ricky_Kofi,Frek_Ricky,0.622806935
+Frek,24.73100616,Frek_Loi_Kin,M,Edinburgh,4,M,Kindia,Loi,Loi_Kin,1.242,0.218,0.73,7.83,Nonkin,1.024,0.701369863,Chimpanzee,0,YoungAdult,Kindia_Loi,Frek_Kindia,-1.248244919
+Frek,24.73100616,Frek_Rick_Kofi,M,Edinburgh,6,M,Ricky,Kofi,Rick_Kofi,0.343,0.85,6.99,1.57,Nonkin,-0.507,-0.424979044,Chimpanzee,0,OldAdult,Ricky_Kofi,Frek_Ricky,-1.051292092
+Frek,24.73100616,Frek_Kin_Unyo,M,Edinburgh,25,M,Kindia,Unyoro,Kin_Unyo,0.093,0.259,0.73,7.83,Nonkin,-0.166,-0.471590909,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Frek_Kindia,0.819759761
+Frek,24.73100616,Frek_Loi_Rick,M,Edinburgh,26,M,Ricky,Loi,Loi_Rick,0.5,0,6.99,1.57,Nonkin,0.5,1,Chimpanzee,0,OldAdult,Ricky_Loi,Frek_Ricky,0.918236175
+Frek,24.73100616,Frek_Unyo_Kin,M,Edinburgh,10,M,Kindia,Unyoro,Unyo_Kin,1.982,0.218,0.73,7.83,Nonkin,1.764,0.801818182,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Frek_Kindia,-0.657386439
+Frek,24.73100616,Frek_Rick_Loi,M,Edinburgh,30,M,Ricky,Loi,Rick_Loi,0.868,0.552,6.99,1.57,Nonkin,0.316,0.222535211,Chimpanzee,0,OldAdult,Ricky_Loi,Frek_Ricky,1.312141828
+Frek,24.73100616,Frek_Kin_Kofi,M,Edinburgh,29,M,Kindia,Kofi,Kin_Kofi,0.143,0,0.73,7.83,Nonkin,0.143,1,Chimpanzee,0,YoungAdult,Kindia_Kofi,Frek_Kindia,1.213665415
+Frek,24.73100616,Frek_Rick_Unyo,M,Edinburgh,36,M,Ricky,Unyoro,Rick_Unyo,0.176,0.109,6.99,1.57,Nonkin,0.067,0.235087719,Chimpanzee,0,OldAdult,Ricky_Unyoro,Frek_Ricky,1.903000308
+Frek,24.73100616,Frek_Kofi_Kin,M,Edinburgh,15,M,Kindia,Kofi,Kofi_Kin,0.551,0.518,0.73,7.83,Nonkin,0.033,0.030869972,Chimpanzee,0,YoungAdult,Kindia_Kofi,Frek_Kindia,-0.165004372
+Frek,24.73100616,Frek_Unyo_Rick,M,Edinburgh,17,M,Ricky,Unyoro,Unyo_Rick,0.759,1.083,6.99,1.57,Nonkin,-0.324,-0.175895765,Chimpanzee,0,OldAdult,Ricky_Unyoro,Frek_Ricky,0.031948455
+Frek,24.73100616,Frek_Unyo_Bram,M,Edinburgh,5,M,Bram,Unyoro,Unyo_Bram,2.15,0.8,8.15,3.71,Kin,1.35,0.457627119,Chimpanzee,0,YoungAdult,Bram_Unyoro,Frek_Bram,-1.149768505
+Frek,24.73100616,Frek_Kofi_Bram,M,Edinburgh,31,M,Bram,Kofi,Kofi_Bram,0.526,0.318,8.15,3.71,Kin,0.208,0.246445498,Chimpanzee,0,YoungAdult,Bram_Kofi,Frek_Bram,1.410618242
+Frek,24.73100616,Frek_Bram_Kofi,M,Edinburgh,11,M,Bram,Kofi,Bram_Kofi,0.218,0.742,8.15,3.71,Kin,-0.524,-0.545833333,Chimpanzee,0,YoungAdult,Bram_Kofi,Frek_Bram,-0.558910025
+Frek,24.73100616,Frek_Loi_Bram,M,Edinburgh,35,M,Bram,Loi,Loi_Bram,0.959,0,8.15,3.71,Kin,0.959,1,Chimpanzee,0,YoungAdult,Bram_Loi,Frek_Bram,1.804523895
+Frek,24.73100616,Frek_Bram_Loi,M,Edinburgh,16,M,Bram,Loi,Bram_Loi,0.325,0.875,8.15,3.71,Kin,-0.55,-0.458333333,Chimpanzee,0,YoungAdult,Bram_Loi,Frek_Bram,-0.066527959
+Frek,24.73100616,Frek_Bram_Unyo,M,Edinburgh,22,M,Bram,Unyoro,Bram_Unyo,0.201,0.193,8.15,3.71,Kin,0.008,0.020304569,Chimpanzee,0,YoungAdult,Bram_Unyoro,Frek_Bram,0.524330521
+Frek,24.73100616,Frek_Pearl_Bam,M,Edinburgh,18,F,Pearl,Bambari,Pearl_Bam,0,0.293,2.32,9.54,Nonkin,-0.293,-1,Chimpanzee,0,OldAdult,Pearl_Bambari,Frek_Pearl,0.130424868
+Frek,24.73100616,Frek_Emma_Mis,M,Edinburgh,19,F,Emma,Misaki,Emma_Mis,0.101,0,3.15,5.4,Nonkin,0.101,1,Chimpanzee,0,OldAdult,Emma_Misaki,Frek_Emma,0.228901281
+Frek,24.73100616,Frek_Fred_Lin,M,Edinburgh,20,F,Lyndsey,Frederike,Fred_Lin,0.168,0.076,5.91,2.65,Nonkin,0.092,0.37704918,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Frek_Lyndsey,0.327377695
+Frek,24.73100616,Frek_Bam_Pearl,M,Edinburgh,1,F,Pearl,Bambari,Bam_Pearl,0.492,0.809,2.32,9.54,Nonkin,-0.317,-0.243658724,Chimpanzee,0,OldAdult,Pearl_Bambari,Frek_Pearl,-1.543674159
+Frek,24.73100616,Frek_Mis_Emma,M,Edinburgh,2,F,Emma,Misaki,Mis_Emma,1.734,0.601,3.15,5.4,Nonkin,1.133,0.485224839,Chimpanzee,0,OldAdult,Emma_Misaki,Frek_Emma,-1.445197745
+Frek,24.73100616,Frek_Lin_Fred,M,Edinburgh,3,F,Lyndsey,Frederike,Lin_Fred,1.083,0.284,5.91,2.65,Nonkin,0.799,0.584491587,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Frek_Lyndsey,-1.346721332
+Frek,24.73100616,Frek_Pearl_Fred,M,Edinburgh,32,F,Pearl,Frederike,Pearl_Fred,0.226,0,2.32,9.54,Nonkin,0.226,1,Chimpanzee,0,OldAdult,Pearl_Frederike,Frek_Pearl,1.509094655
+Frek,24.73100616,Frek_Bam_Emma,M,Edinburgh,33,F,Emma,Bambari,Bam_Emma,0,0.467,3.15,5.4,Nonkin,-0.467,-1,Chimpanzee,0,OldAdult,Emma_Bambari,Frek_Emma,1.607571068
+Frek,24.73100616,Frek_Mis_Lin,M,Edinburgh,24,F,Lyndsey,Misaki,Mis_Lin,0.076,0.193,5.91,2.65,Nonkin,-0.117,-0.434944238,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Frek_Lyndsey,0.721283348
+Habari,12.64065708,Habari_Lom_Kal,M,Planckendael,8,F,Lomela,Kalina,Lom_Kal,0.426,0.235,10.4,1,Nonkin,0.191,0.288956127,Bonobo,0,YoungAdult,Lomela_Kalina,Habari_Lomela,-0.854339265
+Habari,12.64065708,Habari_Wak_Jas,M,Planckendael,7,F,Jasiri,Waka,Wak_Jas,0,0.118,9.15,2.25,Nonkin,-0.118,-1,Bonobo,0,Adolescent,Jasiri_Waka,Habari_Jasiri,-0.952815679
+Habari,12.64065708,Habari_Wak_Ling,M,Planckendael,14,F,Lingoye,Waka,Wak_Ling,1.143,0,3.39,7.42,Nonkin,1.143,1,Bonobo,0,Adolescent,Lingoye_Waka,Habari_Lingoye,-0.263480785
+Habari,12.64065708,Habari_Ling_Luk,M,Planckendael,13,F,Lingoye,Lukuru,Ling_Luk,0.561,0,3.39,7.42,Nonkin,0.561,1,Bonobo,0,Adolescent,Lingoye_Lukuru,Habari_Lingoye,-0.361957199
+Habari,12.64065708,Habari_Lom_Opa,M,Planckendael,6,F,Lomela,Opala,Lom_Opa,0.276,0.601,10.4,1,Nonkin,-0.325,-0.370581528,Bonobo,0,YoungAdult,Lomela_Opala,Habari_Lomela,-1.051292092
+Habari,12.64065708,Habari_Her_Opa,M,Planckendael,15,F,Hermein,Opala,Her_Opa,0,0.384,9.98,4.09,Nonkin,-0.384,-1,Bonobo,0,OldAdult,Hermein_Opala,Habari_Hermein,-0.165004372
+Habari,12.64065708,Habari_Kal_Her,M,Planckendael,5,F,Hermein,Kalina,Kal_Her,0,0.268,9.98,4.09,Nonkin,-0.268,-1,Bonobo,0,OldAdult,Hermein_Kalina,Habari_Hermein,-1.149768505
+Habari,12.64065708,Habari_Luk_Jas,M,Planckendael,9,F,Jasiri,Lukuru,Luk_Jas,1.258,0.501,9.15,2.25,Nonkin,0.757,0.430358158,Bonobo,0,Adolescent,Jasiri_Lukuru,Habari_Jasiri,-0.755862852
+Habari,12.64065708,Habari_Her_Kal,M,Planckendael,1,F,Hermein,Kalina,Her_Kal,1.158,1.042,9.98,4.09,Nonkin,0.116,0.052727273,Bonobo,0,OldAdult,Hermein_Kalina,Habari_Hermein,-1.543674159
+Habari,12.64065708,Habari_Luk_Ling,M,Planckendael,2,F,Lingoye,Lukuru,Luk_Ling,1.151,0.919,3.39,7.42,Nonkin,0.232,0.112077295,Bonobo,0,Adolescent,Lingoye_Lukuru,Habari_Lingoye,-1.445197745
+Habari,12.64065708,Habari_Opa_Lom,M,Planckendael,3,F,Lomela,Opala,Opa_Lom,1.557,0.259,10.4,1,Nonkin,1.298,0.714757709,Bonobo,0,YoungAdult,Lomela_Opala,Habari_Lomela,-1.346721332
+Habari,12.64065708,Habari_Jas_Wak,M,Planckendael,4,F,Jasiri,Waka,Jas_Wak,0,1.666,9.15,2.25,Nonkin,-1.666,-1,Bonobo,0,Adolescent,Jasiri_Waka,Habari_Jasiri,-1.248244919
+Habari,12.64065708,Habari_Jas_Luk,M,Planckendael,12,F,Jasiri,Lukuru,Jas_Luk,1.217,0.226,9.15,2.25,Nonkin,0.991,0.686763687,Bonobo,0,Adolescent,Jasiri_Lukuru,Habari_Jasiri,-0.460433612
+Habari,12.64065708,Habari_Opa_Her,M,Planckendael,10,F,Hermein,Opala,Opa_Her,0,0.726,9.98,4.09,Nonkin,-0.726,-1,Bonobo,0,OldAdult,Hermein_Opala,Habari_Hermein,-0.657386439
+Habari,12.64065708,Habari_Ling_Wak,M,Planckendael,11,F,Lingoye,Waka,Ling_Wak,0.201,0.168,3.39,7.42,Nonkin,0.033,0.089430894,Bonobo,0,Adolescent,Lingoye_Waka,Habari_Lingoye,-0.558910025
+Habari,12.64065708,Habari_Kal_Lom,M,Planckendael,16,F,Lomela,Kalina,Kal_Lom,0.159,0.934,10.4,1,Nonkin,-0.775,-0.70905764,Bonobo,0,YoungAdult,Lomela_Kalina,Habari_Lomela,-0.066527959
+Hatsuka,29.73853525,Hatsuka_Rick_Loi,F,Kumamoto Chimpanzees,27,M,Loi,Ricky,Rick_Loi,1.342,1.275,4.49,1.69,Nonkin,0.067,0.025601834,Chimpanzee,1,YoungAdult,Ricky_Loi,Hatsuka_Loi,1.016712588
+Hatsuka,29.73853525,Hatsuka_Bram_Loi,F,Kumamoto Chimpanzees,32,M,Loi,Bram,Bram_Loi,0.801,0.178,4.49,1.69,Nonkin,0.623,0.636363636,Chimpanzee,1,YoungAdult,Bram_Loi,Hatsuka_Loi,1.509094655
+Hatsuka,29.73853525,Hatsuka_Loi_Bram,F,Kumamoto Chimpanzees,14,M,Loi,Bram,Loi_Bram,0.948,0.817,4.49,1.69,Nonkin,0.131,0.074220963,Chimpanzee,1,YoungAdult,Bram_Loi,Hatsuka_Loi,-0.263480785
+Hatsuka,29.73853525,Hatsuka_Loi_Rick,F,Kumamoto Chimpanzees,9,M,Loi,Ricky,Loi_Rick,2.29,0.568,4.49,1.69,Nonkin,1.722,0.602519244,Chimpanzee,1,YoungAdult,Ricky_Loi,Hatsuka_Loi,-0.755862852
+Hatsuka,29.73853525,Hatsuka_Lyn_Tsu,F,Kumamoto Chimpanzees,30,F,Tsubaki,Lyndsey,Lyn_Tsu,0.481,0.504,4.49,1.69,Nonkin,-0.023,-0.023350254,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Hatsuka_Tsubaki,1.312141828
+Hatsuka,29.73853525,Hatsuka_Pearl_Tsu,F,Kumamoto Chimpanzees,16,F,Tsubaki,Pearl,Pearl_Tsu,1.254,0.261,4.49,1.69,Nonkin,0.993,0.655445545,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Hatsuka_Tsubaki,-0.066527959
+Hatsuka,29.73853525,Hatsuka_Tsu_Pearl,F,Kumamoto Chimpanzees,34,F,Tsubaki,Pearl,Tsu_Pearl,2.397,0.224,4.49,1.69,Nonkin,2.173,0.829072873,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Hatsuka_Tsubaki,1.706047482
+Hatsuka,29.73853525,Hatsuka_Clau_Loi,F,Kumamoto Chimpanzees,1,M,Loi,Claus,Clau_Loi,1.855,0.483,4.49,1.69,Nonkin,1.372,0.586826347,Chimpanzee,1,YoungAdult,Claus_Loi,Hatsuka_Loi,-1.543674159
+Hatsuka,29.73853525,Hatsuka_Loi_Clau,F,Kumamoto Chimpanzees,19,M,Loi,Claus,Loi_Clau,0.348,0.728,4.49,1.69,Nonkin,-0.38,-0.353159851,Chimpanzee,1,YoungAdult,Claus_Loi,Hatsuka_Loi,0.228901281
+Hatsuka,29.73853525,Hatsuka_Emma_Tsu,F,Kumamoto Chimpanzees,5,F,Tsubaki,Emma,Emma_Tsu,1.49,0.44,4.49,1.69,Nonkin,1.05,0.544041451,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Hatsuka_Tsubaki,-1.149768505
+Hatsuka,29.73853525,Hatsuka_Tsu_Emma,F,Kumamoto Chimpanzees,23,F,Tsubaki,Emma,Tsu_Emma,1.504,1.181,4.49,1.69,Nonkin,0.323,0.120297952,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Hatsuka_Tsubaki,0.622806935
+Hatsuka,29.73853525,Hatsuka_Tsu_Lyn,F,Kumamoto Chimpanzees,12,F,Tsubaki,Lyndsey,Tsu_Lyn,0.198,0.598,4.49,1.69,Nonkin,-0.4,-0.502512563,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Hatsuka_Tsubaki,-0.460433612
+Iroha,15.04996578,Iroha_Loi_Rick,F,Kumamoto Chimpanzees,12,M,Loi,Ricky,Loi_Rick,0.967,0.585,4.49,1.69,Nonkin,0.382,0.246134021,Chimpanzee,1,YoungAdult,Ricky_Loi,Iroha_Loi,-0.460433612
+Iroha,15.04996578,Iroha_Rick_Loi,F,Kumamoto Chimpanzees,30,M,Loi,Ricky,Rick_Loi,0.151,0.434,4.49,1.69,Nonkin,-0.283,-0.483760684,Chimpanzee,1,YoungAdult,Ricky_Loi,Iroha_Loi,1.312141828
+Iroha,15.04996578,Iroha_Lyn_Tsu,F,Kumamoto Chimpanzees,27,F,Tsubaki,Lyndsey,Lyn_Tsu,0.424,0.208,4.49,1.69,Nonkin,0.216,0.341772152,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Iroha_Tsubaki,1.016712588
+Iroha,15.04996578,Iroha_Pearl_Tsu,F,Kumamoto Chimpanzees,13,F,Tsubaki,Pearl,Pearl_Tsu,0.754,0.371,4.49,1.69,Nonkin,0.383,0.340444444,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Iroha_Tsubaki,-0.361957199
+Iroha,15.04996578,Iroha_Tsu_Pearl,F,Kumamoto Chimpanzees,31,F,Tsubaki,Pearl,Tsu_Pearl,0.658,0.494,4.49,1.69,Nonkin,0.164,0.142361111,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Iroha_Tsubaki,1.410618242
+Iroha,15.04996578,Iroha_Clau_Loi,F,Kumamoto Chimpanzees,4,M,Loi,Claus,Clau_Loi,1.144,1.257,4.49,1.69,Nonkin,-0.113,-0.047063723,Chimpanzee,1,YoungAdult,Claus_Loi,Iroha_Loi,-1.248244919
+Iroha,15.04996578,Iroha_Loi_Clau,F,Kumamoto Chimpanzees,22,M,Loi,Claus,Loi_Clau,0.918,1.864,4.49,1.69,Nonkin,-0.946,-0.340043134,Chimpanzee,1,YoungAdult,Claus_Loi,Iroha_Loi,0.524330521
+Iroha,15.04996578,Iroha_Emma_Tsu,F,Kumamoto Chimpanzees,2,F,Tsubaki,Emma,Emma_Tsu,1.323,0.56,4.49,1.69,Nonkin,0.763,0.405204461,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Iroha_Tsubaki,-1.445197745
+Iroha,15.04996578,Iroha_Loi_Bram,F,Kumamoto Chimpanzees,17,M,Loi,Bram,Loi_Bram,0.427,0.201,4.49,1.69,Nonkin,0.226,0.359872611,Chimpanzee,1,YoungAdult,Bram_Loi,Iroha_Loi,0.031948455
+Iroha,15.04996578,Iroha_Bram_Loi,F,Kumamoto Chimpanzees,35,M,Loi,Bram,Bram_Loi,0.688,0.288,4.49,1.69,Nonkin,0.4,0.409836066,Chimpanzee,1,YoungAdult,Bram_Loi,Iroha_Loi,1.804523895
+Iroha,15.04996578,Iroha_Tsu_Emma,F,Kumamoto Chimpanzees,20,F,Tsubaki,Emma,Tsu_Emma,1.265,0.852,4.49,1.69,Nonkin,0.413,0.195087388,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Iroha_Tsubaki,0.327377695
+Iroha,15.04996578,Iroha_Tsu_Lyn,F,Kumamoto Chimpanzees,9,F,Tsubaki,Lyndsey,Tsu_Lyn,2.353,0.197,4.49,1.69,Nonkin,2.156,0.845490196,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Iroha_Tsubaki,-0.755862852
+Kikongo,4.640657084,Kikongo_Jill_Sal,M,Planckendael,4,F,Jill,Salonga,Jill_Sal,0.101,0,3.57,2.5,Nonkin,0.101,1,Bonobo,0,YoungAdult,Jill_Salonga,Kikongo_Jill,-1.248244919
+Kikongo,4.640657084,Kikongo_Kal_Jill,M,Planckendael,9,F,Jill,Kalina,Kal_Jill,1.41,0,3.57,2.5,Nonkin,1.41,1,Bonobo,0,YoungAdult,Jill_Kalina,Kikongo_Jill,-0.755862852
+Kikongo,4.640657084,Kikongo_Opa_Kum,M,Planckendael,10,F,Kumbuka,Opala,Opa_Kum,0.385,0.834,3.57,2.5,Nonkin,-0.449,-0.368334701,Bonobo,0,YoungAdult,Kumbuka_Opala,Kikongo_Kumbuka,-0.657386439
+Kikongo,4.640657084,Kikongo_Zua_Sal,M,Planckendael,11,F,Zuani,Salonga,Zua_Sal,0.417,1.291,3.57,2.5,Nonkin,-0.874,-0.511709602,Bonobo,0,Adolescent,Zuani_Salonga,Kikongo_Zuani,-0.558910025
+Kikongo,4.640657084,Kikongo_Kum_Sal,M,Planckendael,16,F,Kumbuka,Salonga,Kum_Sal,0.158,0,3.57,2.5,Nonkin,0.158,1,Bonobo,0,YoungAdult,Kumbuka_Salonga,Kikongo_Kumbuka,-0.066527959
+Kikongo,4.640657084,Kikongo_Kal_Zua,M,Planckendael,17,F,Zuani,Kalina,Kal_Zua,0.101,0.126,3.57,2.5,Nonkin,-0.025,-0.110132159,Bonobo,0,Adolescent,Zuani_Kalina,Kikongo_Zuani,0.031948455
+Kikongo,4.640657084,Kikongo_Kal_Kum,M,Planckendael,18,F,Kumbuka,Kalina,Kal_Kum,0.118,1.042,3.57,2.5,Nonkin,-0.924,-0.796551724,Bonobo,0,YoungAdult,Kumbuka_Kalina,Kikongo_Kumbuka,0.130424868
+Kikongo,4.640657084,Kikongo_Opa_Jill,M,Planckendael,15,F,Jill,Opala,Opa_Jill,0.51,0.6,3.57,2.5,Nonkin,-0.09,-0.081081081,Bonobo,0,YoungAdult,Jill_Opala,Kikongo_Jill,-0.165004372
+Kikongo,4.640657084,Kikongo_Zua_Kal,M,Planckendael,8,F,Zuani,Kalina,Zua_Kal,0.226,0.659,3.57,2.5,Nonkin,-0.433,-0.489265537,Bonobo,0,Adolescent,Zuani_Kalina,Kikongo_Zuani,-0.854339265
+Kikongo,4.640657084,Kikongo_Kum_Opa,M,Planckendael,2,F,Kumbuka,Opala,Kum_Opa,0.126,1.184,3.57,2.5,Nonkin,-1.058,-0.807633588,Bonobo,0,YoungAdult,Kumbuka_Opala,Kikongo_Kumbuka,-1.445197745
+Kikongo,4.640657084,Kikongo_Sal_Zua,M,Planckendael,3,F,Zuani,Salonga,Sal_Zua,2.018,0,3.57,2.5,Nonkin,2.018,1,Bonobo,0,Adolescent,Zuani_Salonga,Kikongo_Zuani,-1.346721332
+Kikongo,4.640657084,Kikongo_Kum_Kal,M,Planckendael,13,F,Kumbuka,Kalina,Kum_Kal,0,1.226,3.57,2.5,Nonkin,-1.226,-1,Bonobo,0,YoungAdult,Kumbuka_Kalina,Kikongo_Kumbuka,-0.361957199
+Kikongo,4.640657084,Kikongo_Opa_Zua,M,Planckendael,5,F,Zuani,Opala,Opa_Zua,0.417,0.109,3.57,2.5,Nonkin,0.308,0.585551331,Bonobo,0,Adolescent,Zuani_Opala,Kikongo_Zuani,-1.149768505
+Kikongo,4.640657084,Kikongo_Jill_Kal,M,Planckendael,1,F,Jill,Kalina,Jill_Kal,0.318,0.585,3.57,2.5,Nonkin,-0.267,-0.295681063,Bonobo,0,YoungAdult,Jill_Kalina,Kikongo_Jill,-1.543674159
+Kikongo,4.640657084,Kikongo_Sal_Jill,M,Planckendael,12,F,Jill,Salonga,Sal_Jill,0.076,0.176,3.57,2.5,Nonkin,-0.1,-0.396825397,Bonobo,0,YoungAdult,Jill_Salonga,Kikongo_Jill,-0.460433612
+Kikongo,4.640657084,Kikongo_Zua_Opa,M,Planckendael,14,F,Zuani,Opala,Zua_Opa,0.084,0.342,3.57,2.5,Nonkin,-0.258,-0.605633803,Bonobo,0,Adolescent,Zuani_Opala,Kikongo_Zuani,-0.263480785
+Kikongo,4.640657084,Kikongo_Jill_Opa,M,Planckendael,6,F,Jill,Opala,Jill_Opa,0.084,1,3.57,2.5,Nonkin,-0.916,-0.84501845,Bonobo,0,YoungAdult,Jill_Opala,Kikongo_Jill,-1.051292092
+Kikongo,4.640657084,Kikongo_Sal_Kum,M,Planckendael,7,F,Kumbuka,Salonga,Sal_Kum,1.159,0,3.57,2.5,Nonkin,1.159,1,Bonobo,0,YoungAdult,Kumbuka_Salonga,Kikongo_Kumbuka,-0.952815679
+Kilimi,25.3963039,Kilimi_Loi_Bram,F,Edinburgh,8,M,Bram,Loi,Loi_Bram,0.626,0.209,8.15,0.41,Nonkin,0.417,0.499401198,Chimpanzee,0,YoungAdult,Bram_Loi,Kilimi_Bram,-0.854339265
+Kilimi,25.3963039,Kilimi_Emma_Bam,F,Edinburgh,31,F,Emma,Bambari,Emma_Bam,0,0.951,3.15,24.64,Nonkin,-0.951,-1,Chimpanzee,0,OldAdult,Emma_Bambari,Kilimi_Emma,1.410618242
+Kilimi,25.3963039,Kilimi_Fred_Pearl,F,Edinburgh,30,F,Pearl,Frederike,Fred_Pearl,0.859,0,2.32,6.23,Nonkin,0.859,1,Chimpanzee,0,OldAdult,Pearl_Frederike,Kilimi_Pearl,1.312141828
+Kilimi,25.3963039,Kilimi_Emma_Fred,F,Edinburgh,23,F,Emma,Frederike,Emma_Fred,1.276,0,3.15,24.64,Nonkin,1.276,1,Chimpanzee,0,OldAdult,Emma_Frederike,Kilimi_Emma,0.622806935
+Kilimi,25.3963039,Kilimi_Pearl_Mis,F,Edinburgh,10,F,Pearl,Misaki,Pearl_Mis,0,0.076,2.32,6.23,Nonkin,-0.076,-1,Chimpanzee,0,OldAdult,Pearl_Misaki,Kilimi_Pearl,-0.657386439
+Kilimi,25.3963039,Kilimi_Fred_Emma,F,Edinburgh,11,F,Emma,Frederike,Fred_Emma,0.201,0,3.15,24.64,Nonkin,0.201,1,Chimpanzee,0,OldAdult,Emma_Frederike,Kilimi_Emma,-0.558910025
+Kilimi,25.3963039,Kilimi_Mis_Pearl,F,Edinburgh,18,F,Pearl,Misaki,Mis_Pearl,1.442,0,2.32,6.23,Nonkin,1.442,1,Chimpanzee,0,OldAdult,Pearl_Misaki,Kilimi_Pearl,0.130424868
+Kilimi,25.3963039,Kilimi_Unyo_Rick,F,Edinburgh,17,M,Ricky,Unyoro,Unyo_Rick,0.076,0,6.99,18.95,Nonkin,0.076,1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Kilimi_Ricky,0.031948455
+Kilimi,25.3963039,Kilimi_Rick_Unyo,F,Edinburgh,9,M,Ricky,Unyoro,Rick_Unyo,0,0.068,6.99,18.95,Nonkin,-0.068,-1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Kilimi_Ricky,-0.755862852
+Kilimi,25.3963039,Kilimi_Kofi_Clau,F,Edinburgh,29,M,Claus,Kofi,Kofi_Clau,2.492,0,6.96,1.59,Nonkin,2.492,1,Chimpanzee,0,YoungAdult,Claus_Kofi,Kilimi_Claus,1.213665415
+Kilimi,25.3963039,Kilimi_Clau_Unyo,F,Edinburgh,32,M,Claus,Unyoro,Clau_Unyo,1.235,0,6.96,1.59,Nonkin,1.235,1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Kilimi_Claus,1.509094655
+Kilimi,25.3963039,Kilimi_Kofi_Bram,F,Edinburgh,24,M,Bram,Kofi,Kofi_Bram,0.184,0,8.15,0.41,Nonkin,0.184,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Kilimi_Bram,0.721283348
+Kilimi,25.3963039,Kilimi_Loi_Rick,F,Edinburgh,4,M,Ricky,Loi,Loi_Rick,0.833,0.151,6.99,18.95,Nonkin,0.682,0.693089431,Chimpanzee,0,OldAdult,Ricky_Loi,Kilimi_Ricky,-1.248244919
+Kilimi,25.3963039,Kilimi_Unyo_Clau,F,Edinburgh,15,M,Claus,Unyoro,Unyo_Clau,0,0.076,6.96,1.59,Nonkin,-0.076,-1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Kilimi_Claus,-0.165004372
+Kilimi,25.3963039,Kilimi_Bram_Kofi,F,Edinburgh,27,M,Bram,Kofi,Bram_Kofi,0.485,0.093,8.15,0.41,Nonkin,0.392,0.678200692,Chimpanzee,0,YoungAdult,Bram_Kofi,Kilimi_Bram,1.016712588
+Kilimi,25.3963039,Kilimi_Rick_Loi,F,Edinburgh,28,M,Ricky,Loi,Rick_Loi,0.576,1.567,6.99,18.95,Nonkin,-0.991,-0.462435838,Chimpanzee,0,OldAdult,Ricky_Loi,Kilimi_Ricky,1.115189002
+Kilimi,25.3963039,Kilimi_Clau_Kofi,F,Edinburgh,7,M,Claus,Kofi,Clau_Kofi,1.384,0.21,6.96,1.59,Nonkin,1.174,0.73651192,Chimpanzee,0,YoungAdult,Claus_Kofi,Kilimi_Claus,-0.952815679
+Kilimi,25.3963039,Kilimi_Lin_Bam,F,Edinburgh,12,F,Lyndsey,Bambari,Lin_Bam,0,0.217,5.91,29.2,Kin,-0.217,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Kilimi_Lyndsey,-0.460433612
+Kilimi,25.3963039,Kilimi_Bam_Lin,F,Edinburgh,19,F,Lyndsey,Bambari,Bam_Lin,0.084,0,5.91,29.2,Kin,0.084,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Kilimi_Lyndsey,0.228901281
+Kilimi,25.3963039,Kilimi_Bram_Loi,F,Edinburgh,16,M,Bram,Loi,Bram_Loi,0.159,0,8.15,0.41,Nonkin,0.159,1,Chimpanzee,0,YoungAdult,Bram_Loi,Kilimi_Bram,-0.066527959
+Kilimi,25.3963039,Kilimi_Pearl_Bam,F,Edinburgh,2,F,Pearl,Bambari,Pearl_Bam,0.109,0.093,2.32,6.23,Nonkin,0.016,0.079207921,Chimpanzee,0,OldAdult,Pearl_Bambari,Kilimi_Pearl,-1.445197745
+Kilimi,25.3963039,Kilimi_Emma_Mis,F,Edinburgh,3,F,Emma,Misaki,Emma_Mis,0,0.417,3.15,24.64,Nonkin,-0.417,-1,Chimpanzee,0,OldAdult,Emma_Misaki,Kilimi_Emma,-1.346721332
+Kilimi,25.3963039,Kilimi_Bam_Pearl,F,Edinburgh,26,F,Pearl,Bambari,Bam_Pearl,0.168,0,2.32,6.23,Nonkin,0.168,1,Chimpanzee,0,OldAdult,Pearl_Bambari,Kilimi_Pearl,0.918236175
+Kilimi,25.3963039,Kilimi_Mis_Emma,F,Edinburgh,33,F,Emma,Misaki,Mis_Emma,0.484,0.101,3.15,24.64,Nonkin,0.383,0.654700855,Chimpanzee,0,OldAdult,Emma_Misaki,Kilimi_Emma,1.607571068
+Kilimi,25.3963039,Kilimi_Pearl_Fred,F,Edinburgh,21,F,Pearl,Frederike,Pearl_Fred,0.51,0.268,2.32,6.23,Nonkin,0.242,0.311053985,Chimpanzee,0,OldAdult,Pearl_Frederike,Kilimi_Pearl,0.425854108
+Kilimi,25.3963039,Kilimi_Bam_Emma,F,Edinburgh,5,F,Emma,Bambari,Bam_Emma,0.234,0.276,3.15,24.64,Nonkin,-0.042,-0.082352941,Chimpanzee,0,OldAdult,Emma_Bambari,Kilimi_Emma,-1.149768505
+Kilimi,25.3963039,Kilimi_Fred_Lin,F,Edinburgh,22,F,Lyndsey,Frederike,Fred_Lin,0.109,0,5.91,29.2,Kin,0.109,1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Kilimi_Lyndsey,0.524330521
+Kilimi,25.3963039,Kilimi_Lin_Fred,F,Edinburgh,36,F,Lyndsey,Frederike,Lin_Fred,0.426,1.009,5.91,29.2,Kin,-0.583,-0.406271777,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Kilimi_Lyndsey,1.903000308
+Kilimi,25.3963039,Kilimi_Mis_Lin,F,Edinburgh,6,F,Lyndsey,Misaki,Mis_Lin,0.493,0.359,5.91,29.2,Kin,0.134,0.157276995,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Kilimi_Lyndsey,-1.051292092
+Kilimi,25.3963039,Kilimi_Lin_Mis,F,Edinburgh,34,F,Lyndsey,Misaki,Lin_Mis,0,0.151,5.91,29.2,Kin,-0.151,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Kilimi_Lyndsey,1.706047482
+Kilimi,25.3963039,Kilimi_Kofi_Rick,F,Edinburgh,20,M,Ricky,Kofi,Kofi_Rick,0,0.159,6.99,18.95,Nonkin,-0.159,-1,Chimpanzee,0,OldAdult,Ricky_Kofi,Kilimi_Ricky,0.327377695
+Kilimi,25.3963039,Kilimi_Loi_Clau,F,Edinburgh,13,M,Claus,Loi,Loi_Clau,0,0.168,6.96,1.59,Nonkin,-0.168,-1,Chimpanzee,0,YoungAdult,Claus_Loi,Kilimi_Claus,-0.361957199
+Kilimi,25.3963039,Kilimi_Clau_Loi,F,Edinburgh,1,M,Claus,Loi,Clau_Loi,0.084,0.068,6.96,1.59,Nonkin,0.016,0.105263158,Chimpanzee,0,YoungAdult,Claus_Loi,Kilimi_Claus,-1.543674159
+Kilimi,25.3963039,Kilimi_Bram_Unyo,F,Edinburgh,35,M,Bram,Unyoro,Bram_Unyo,0.242,1.9,8.15,0.41,Nonkin,-1.658,-0.774042951,Chimpanzee,0,YoungAdult,Bram_Unyoro,Kilimi_Bram,1.804523895
+Kilimi,25.3963039,Kilimi_Unyo_Bram,F,Edinburgh,14,M,Bram,Unyoro,Unyo_Bram,0.218,0,8.15,0.41,Nonkin,0.218,1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Kilimi_Bram,-0.263480785
+Kilimi,25.3963039,Kilimi_Rick_Kofi,F,Edinburgh,25,M,Ricky,Kofi,Rick_Kofi,0.309,0,6.99,18.95,Nonkin,0.309,1,Chimpanzee,0,OldAdult,Ricky_Kofi,Kilimi_Ricky,0.819759761
+Liberius,19.4825462,Liberius_Clau_Loi,M,Edinburgh,17,M,Claus,Loi,Clau_Loi,0.417,0,6.96,1.59,Nonkin,0.417,1,Chimpanzee,0,YoungAdult,Claus_Loi,Liberius_Claus,0.031948455
+Liberius,19.4825462,Liberius_Bram_Unyo,M,Edinburgh,32,M,Bram,Unyoro,Bram_Unyo,0,1.792,8.15,0.41,Nonkin,-1.792,-1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Liberius_Bram,1.509094655
+Liberius,19.4825462,Liberius_Kofi_Rick,M,Edinburgh,35,M,Ricky,Kofi,Kofi_Rick,0.068,0,6.99,13.04,Nonkin,0.068,1,Chimpanzee,0,OldAdult,Ricky_Kofi,Liberius_Ricky,1.804523895
+Liberius,19.4825462,Liberius_Bam_Lin,M,Edinburgh,30,F,Lyndsey,Bambari,Bam_Lin,0.168,0.826,5.91,14.12,Nonkin,-0.658,-0.661971831,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Liberius_Lyndsey,1.312141828
+Liberius,19.4825462,Liberius_Clau_Kofi,M,Edinburgh,25,M,Claus,Kofi,Clau_Kofi,0,0.476,6.96,1.59,Nonkin,-0.476,-1,Chimpanzee,0,YoungAdult,Claus_Kofi,Liberius_Claus,0.819759761
+Liberius,19.4825462,Liberius_Loi_Bram,M,Edinburgh,26,M,Bram,Loi,Loi_Bram,0.084,0,8.15,0.41,Nonkin,0.084,1,Chimpanzee,0,YoungAdult,Bram_Loi,Liberius_Bram,0.918236175
+Liberius,19.4825462,Liberius_Rick_Unyo,M,Edinburgh,27,M,Ricky,Unyoro,Rick_Unyo,0.601,0.393,6.99,13.04,Nonkin,0.208,0.209255533,Chimpanzee,0,OldAdult,Ricky_Unyoro,Liberius_Ricky,1.016712588
+Liberius,19.4825462,Liberius_Kofi_Clau,M,Edinburgh,11,M,Claus,Kofi,Kofi_Clau,0.567,0,6.96,1.59,Nonkin,0.567,1,Chimpanzee,0,YoungAdult,Claus_Kofi,Liberius_Claus,-0.558910025
+Liberius,19.4825462,Liberius_Bram_Loi,M,Edinburgh,12,M,Bram,Loi,Bram_Loi,0,0.975,8.15,0.41,Nonkin,-0.975,-1,Chimpanzee,0,YoungAdult,Bram_Loi,Liberius_Bram,-0.460433612
+Liberius,19.4825462,Liberius_Unyo_Rick,M,Edinburgh,13,M,Ricky,Unyoro,Unyo_Rick,0.634,0.151,6.99,13.04,Nonkin,0.483,0.615286624,Chimpanzee,0,OldAdult,Ricky_Unyoro,Liberius_Ricky,-0.361957199
+Liberius,19.4825462,Liberius_Fred_Pearl,M,Edinburgh,6,F,Pearl,Frederike,Fred_Pearl,0.451,0.327,2.32,6.23,Nonkin,0.124,0.159383033,Chimpanzee,0,OldAdult,Pearl_Frederike,Liberius_Pearl,-1.051292092
+Liberius,19.4825462,Liberius_Emma_Bam,M,Edinburgh,29,F,Emma,Bambari,Emma_Bam,0.184,1.242,3.15,16.87,Nonkin,-1.058,-0.741935484,Chimpanzee,0,OldAdult,Emma_Bambari,Liberius_Emma,1.213665415
+Liberius,19.4825462,Liberius_Lin_Mis,M,Edinburgh,7,F,Lyndsey,Misaki,Lin_Mis,0,0.36,5.91,14.12,Nonkin,-0.36,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Liberius_Lyndsey,-0.952815679
+Liberius,19.4825462,Liberius_Pearl_Mis,M,Edinburgh,23,F,Pearl,Misaki,Pearl_Mis,0.076,0.692,2.32,6.23,Nonkin,-0.616,-0.802083333,Chimpanzee,0,OldAdult,Pearl_Misaki,Liberius_Pearl,0.622806935
+Liberius,19.4825462,Liberius_Pearl_Bam,M,Edinburgh,14,F,Pearl,Bambari,Pearl_Bam,0.584,1.975,2.32,6.23,Nonkin,-1.391,-0.543571708,Chimpanzee,0,OldAdult,Pearl_Bambari,Liberius_Pearl,-0.263480785
+Liberius,19.4825462,Liberius_Emma_Mis,M,Edinburgh,15,F,Emma,Misaki,Emma_Mis,0.559,0,3.15,16.87,Nonkin,0.559,1,Chimpanzee,0,OldAdult,Emma_Misaki,Liberius_Emma,-0.165004372
+Liberius,19.4825462,Liberius_Fred_Lin,M,Edinburgh,16,F,Lyndsey,Frederike,Fred_Lin,0,0.176,5.91,14.12,Nonkin,-0.176,-1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Liberius_Lyndsey,-0.066527959
+Liberius,19.4825462,Liberius_Bam_Pearl,M,Edinburgh,1,F,Pearl,Bambari,Bam_Pearl,0.259,0,2.32,6.23,Nonkin,0.259,1,Chimpanzee,0,OldAdult,Pearl_Bambari,Liberius_Pearl,-1.543674159
+Liberius,19.4825462,Liberius_Mis_Emma,M,Edinburgh,2,F,Emma,Misaki,Mis_Emma,0.642,0.184,3.15,16.87,Nonkin,0.458,0.554479419,Chimpanzee,0,OldAdult,Emma_Misaki,Liberius_Emma,-1.445197745
+Liberius,19.4825462,Liberius_Lin_Fred,M,Edinburgh,28,F,Lyndsey,Frederike,Lin_Fred,0,0.201,5.91,14.12,Nonkin,-0.201,-1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Liberius_Lyndsey,1.115189002
+Liberius,19.4825462,Liberius_Pearl_Fred,M,Edinburgh,18,F,Pearl,Frederike,Pearl_Fred,0,0.284,2.32,6.23,Nonkin,-0.284,-1,Chimpanzee,0,OldAdult,Pearl_Frederike,Liberius_Pearl,0.130424868
+Liberius,19.4825462,Liberius_Bam_Emma,M,Edinburgh,19,F,Emma,Bambari,Bam_Emma,0,1.208,3.15,16.87,Nonkin,-1.208,-1,Chimpanzee,0,OldAdult,Emma_Bambari,Liberius_Emma,0.228901281
+Liberius,19.4825462,Liberius_Mis_Lin,M,Edinburgh,20,F,Lyndsey,Misaki,Mis_Lin,0.084,0,5.91,14.12,Nonkin,0.084,1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Liberius_Lyndsey,0.327377695
+Liberius,19.4825462,Liberius_Unyo_Bram,M,Edinburgh,4,M,Bram,Unyoro,Unyo_Bram,0.252,0.176,8.15,0.41,Nonkin,0.076,0.177570093,Chimpanzee,0,YoungAdult,Bram_Unyoro,Liberius_Bram,-1.248244919
+Liberius,19.4825462,Liberius_Rick_Kofi,M,Edinburgh,5,M,Ricky,Kofi,Rick_Kofi,0.451,0.284,6.99,13.04,Nonkin,0.167,0.227210884,Chimpanzee,0,OldAdult,Ricky_Kofi,Liberius_Ricky,-1.149768505
+Liberius,19.4825462,Liberius_Clau_Unyo,M,Edinburgh,21,M,Claus,Unyoro,Clau_Unyo,0,0.434,6.96,1.59,Nonkin,-0.434,-1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Liberius_Claus,0.425854108
+Liberius,19.4825462,Liberius_Kofi_Bram,M,Edinburgh,22,M,Bram,Kofi,Kofi_Bram,0,0.143,8.15,0.41,Nonkin,-0.143,-1,Chimpanzee,0,YoungAdult,Bram_Kofi,Liberius_Bram,0.524330521
+Liberius,19.4825462,Liberius_Fred_Emma,M,Edinburgh,24,F,Emma,Frederike,Fred_Emma,1.925,0,3.15,16.87,Nonkin,1.925,1,Chimpanzee,0,OldAdult,Emma_Frederike,Liberius_Emma,0.721283348
+Liberius,19.4825462,Liberius_Lin_Bam,M,Edinburgh,34,F,Lyndsey,Bambari,Lin_Bam,0,0.159,5.91,14.12,Nonkin,-0.159,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Liberius_Lyndsey,1.706047482
+Liberius,19.4825462,Liberius_Mis_Pearl,M,Edinburgh,10,F,Pearl,Misaki,Mis_Pearl,0,0.076,2.32,6.23,Nonkin,-0.076,-1,Chimpanzee,0,OldAdult,Pearl_Misaki,Liberius_Pearl,-0.657386439
+Liberius,19.4825462,Liberius_Emma_Fred,M,Edinburgh,33,F,Emma,Frederike,Emma_Fred,0.385,0,3.15,16.87,Nonkin,0.385,1,Chimpanzee,0,OldAdult,Emma_Frederike,Liberius_Emma,1.607571068
+Liberius,19.4825462,Liberius_Loi_Clau,M,Edinburgh,3,M,Claus,Loi,Loi_Clau,0.609,0.101,6.96,1.59,Nonkin,0.508,0.715492958,Chimpanzee,0,YoungAdult,Claus_Loi,Liberius_Claus,-1.346721332
+Liberius,19.4825462,Liberius_Loi_Rick,M,Edinburgh,36,M,Ricky,Loi,Loi_Rick,0.968,0,6.99,13.04,Nonkin,0.968,1,Chimpanzee,0,OldAdult,Ricky_Loi,Liberius_Ricky,1.903000308
+Liberius,19.4825462,Liberius_Unyo_Clau,M,Edinburgh,8,M,Claus,Unyoro,Unyo_Clau,1.241,0.659,6.96,1.59,Nonkin,0.582,0.306315789,Chimpanzee,0,YoungAdult,Claus_Unyoro,Liberius_Claus,-0.854339265
+Liberius,19.4825462,Liberius_Bram_Kofi,M,Edinburgh,9,M,Bram,Kofi,Bram_Kofi,0,0.4,8.15,0.41,Nonkin,-0.4,-1,Chimpanzee,0,YoungAdult,Bram_Kofi,Liberius_Bram,-0.755862852
+Liberius,19.4825462,Liberius_Rick_Loi,M,Edinburgh,31,M,Ricky,Loi,Rick_Loi,0,1,6.99,13.04,Nonkin,-1,-1,Chimpanzee,0,OldAdult,Ricky_Loi,Liberius_Ricky,1.410618242
+Lina,33.14715948,Lina_Jas_Wak,F,Planckendael,7,F,Jasiri,Waka,Jas_Wak,0.435,0.259,9.15,1.67,Nonkin,0.176,0.253602305,Bonobo,0,Adolescent,Jasiri_Waka,Lina_Jasiri,-0.952815679
+Lina,33.14715948,Lina_Her_Kal,F,Planckendael,13,F,Hermein,Kalina,Her_Kal,0,0.584,9.98,0.84,Nonkin,-0.584,-1,Bonobo,0,OldAdult,Hermein_Kalina,Lina_Hermein,-0.361957199
+Lina,33.14715948,Lina_Kal_Her,F,Planckendael,1,F,Hermein,Kalina,Kal_Her,1.517,0.836,9.98,0.84,Nonkin,0.681,0.289417765,Bonobo,0,OldAdult,Hermein_Kalina,Lina_Hermein,-1.543674159
+Lina,33.14715948,Lina_Lom_Opa,F,Planckendael,3,F,Lomela,Opala,Lom_Opa,1.317,0.55,10.4,0.42,Nonkin,0.767,0.410819497,Bonobo,0,YoungAdult,Lomela_Opala,Lina_Lomela,-1.346721332
+Lina,33.14715948,Lina_Opa_Lom,F,Planckendael,12,F,Lomela,Opala,Opa_Lom,0.234,0,10.4,0.42,Nonkin,0.234,1,Bonobo,0,YoungAdult,Lomela_Opala,Lina_Lomela,-0.460433612
+Lina,33.14715948,Lina_Wak_Ling,F,Planckendael,5,F,Lingoye,Waka,Wak_Ling,1.057,0.226,3.39,8.84,Kin,0.831,0.647700701,Bonobo,0,Adolescent,Lingoye_Waka,Lina_Lingoye,-1.149768505
+Lina,33.14715948,Lina_Ling_Wak,F,Planckendael,8,F,Lingoye,Waka,Ling_Wak,0,0.184,3.39,8.84,Kin,-0.184,-1,Bonobo,0,Adolescent,Lingoye_Waka,Lina_Lingoye,-0.854339265
+Lina,33.14715948,Lina_Jas_Luk,F,Planckendael,10,F,Jasiri,Lukuru,Jas_Luk,0.617,0.601,9.15,1.67,Nonkin,0.016,0.013136289,Bonobo,0,Adolescent,Jasiri_Lukuru,Lina_Jasiri,-0.657386439
+Lina,33.14715948,Lina_Ling_Luk,F,Planckendael,2,F,Lingoye,Lukuru,Ling_Luk,2.133,0.126,3.39,8.84,Kin,2.007,0.888446215,Bonobo,0,Adolescent,Lingoye_Lukuru,Lina_Lingoye,-1.445197745
+Lina,33.14715948,Lina_Opa_Her,F,Planckendael,16,F,Hermein,Opala,Opa_Her,0.234,0,9.98,0.84,Nonkin,0.234,1,Bonobo,0,OldAdult,Hermein_Opala,Lina_Hermein,-0.066527959
+Lina,33.14715948,Lina_Kal_Lom,F,Planckendael,9,F,Lomela,Kalina,Kal_Lom,0.567,0.276,10.4,0.42,Nonkin,0.291,0.34519573,Bonobo,0,YoungAdult,Lomela_Kalina,Lina_Lomela,-0.755862852
+Lina,33.14715948,Lina_Her_Opa,F,Planckendael,11,F,Hermein,Opala,Her_Opa,0.159,0.876,9.98,0.84,Nonkin,-0.717,-0.692753623,Bonobo,0,OldAdult,Hermein_Opala,Lina_Hermein,-0.558910025
+Lina,33.14715948,Lina_Lom_Kal,F,Planckendael,15,F,Lomela,Kalina,Lom_Kal,0.101,0.109,10.4,0.42,Nonkin,-0.008,-0.038095238,Bonobo,0,YoungAdult,Lomela_Kalina,Lina_Lomela,-0.165004372
+Lina,33.14715948,Lina_Luk_Jas,F,Planckendael,14,F,Jasiri,Lukuru,Luk_Jas,0.143,0.201,9.15,1.67,Nonkin,-0.058,-0.168604651,Bonobo,0,Adolescent,Jasiri_Lukuru,Lina_Jasiri,-0.263480785
+Lina,33.14715948,Lina_Wak_Jas,F,Planckendael,4,F,Jasiri,Waka,Wak_Jas,1.125,1.117,9.15,1.67,Nonkin,0.008,0.003568243,Bonobo,0,Adolescent,Jasiri_Waka,Lina_Jasiri,-1.248244919
+Lina,33.14715948,Lina_Luk_Ling,F,Planckendael,6,F,Lingoye,Lukuru,Luk_Ling,0.076,0,3.39,8.84,Kin,0.076,1,Bonobo,0,Adolescent,Lingoye_Lukuru,Lina_Lingoye,-1.051292092
+Louis,41.96851472,Louis_Unyo_Bram,M,Edinburgh,2,M,Bram,Unyoro,Unyo_Bram,0,0.101,8.15,0.41,Nonkin,-0.101,-1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Louis_Bram,-1.445197745
+Louis,41.96851472,Louis_Rick_Kofi,M,Edinburgh,24,M,Ricky,Kofi,Rick_Kofi,0.068,0.25,6.99,35.54,Nonkin,-0.182,-0.572327044,Chimpanzee,0,OldAdult,Ricky_Kofi,Louis_Ricky,0.721283348
+Louis,41.96851472,Louis_Clau_Unyo,M,Edinburgh,15,M,Claus,Unyoro,Clau_Unyo,0.417,0,6.96,1.59,Nonkin,0.417,1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Louis_Claus,-0.165004372
+Louis,41.96851472,Louis_Loi_Clau,M,Edinburgh,1,M,Claus,Loi,Loi_Clau,0.076,0,6.96,1.59,Nonkin,0.076,1,Chimpanzee,0,YoungAdult,Claus_Loi,Louis_Claus,-1.543674159
+Louis,41.96851472,Louis_Pearl_Bam,M,Edinburgh,12,F,Pearl,Bambari,Pearl_Bam,0.285,0.343,2.32,6.23,Nonkin,-0.058,-0.092356688,Chimpanzee,0,OldAdult,Pearl_Bambari,Louis_Pearl,-0.460433612
+Louis,41.96851472,Louis_Emma_Mis,M,Edinburgh,13,F,Emma,Misaki,Emma_Mis,0.168,0,3.15,24.64,Nonkin,0.168,1,Chimpanzee,0,OldAdult,Emma_Misaki,Louis_Emma,-0.361957199
+Louis,41.96851472,Louis_Fred_Lin,M,Edinburgh,14,F,Lyndsey,Frederike,Fred_Lin,0,0.068,5.91,29.2,Nonkin,-0.068,-1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Louis_Lyndsey,-0.263480785
+Louis,41.96851472,Louis_Bam_Pearl,M,Edinburgh,31,F,Pearl,Bambari,Bam_Pearl,0,0.109,2.32,6.23,Nonkin,-0.109,-1,Chimpanzee,0,OldAdult,Pearl_Bambari,Louis_Pearl,1.410618242
+Louis,41.96851472,Louis_Kofi_Clau,M,Edinburgh,7,M,Claus,Kofi,Kofi_Clau,0,0.076,6.96,1.59,Nonkin,-0.076,-1,Chimpanzee,0,YoungAdult,Claus_Kofi,Louis_Claus,-0.952815679
+Louis,41.96851472,Louis_Bram_Loi,M,Edinburgh,8,M,Bram,Loi,Bram_Loi,0,0.217,8.15,0.41,Nonkin,-0.217,-1,Chimpanzee,0,YoungAdult,Bram_Loi,Louis_Bram,-0.854339265
+Louis,41.96851472,Louis_Unyo_Rick,M,Edinburgh,9,M,Ricky,Unyoro,Unyo_Rick,0,0.717,6.99,35.54,Nonkin,-0.717,-1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Louis_Ricky,-0.755862852
+Louis,41.96851472,Louis_Emma_Bam,M,Edinburgh,28,F,Emma,Bambari,Emma_Bam,0,0.734,3.15,24.64,Nonkin,-0.734,-1,Chimpanzee,0,OldAdult,Emma_Bambari,Louis_Emma,1.115189002
+Louis,41.96851472,Louis_Lin_Mis,M,Edinburgh,6,F,Lyndsey,Misaki,Lin_Mis,0,1.276,5.91,29.2,Nonkin,-1.276,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Louis_Lyndsey,-1.051292092
+Louis,41.96851472,Louis_Pearl_Mis,M,Edinburgh,22,F,Pearl,Misaki,Pearl_Mis,0.109,0.401,2.32,6.23,Nonkin,-0.292,-0.57254902,Chimpanzee,0,OldAdult,Pearl_Misaki,Louis_Pearl,0.524330521
+Louis,41.96851472,Louis_Fred_Emma,M,Edinburgh,34,F,Emma,Frederike,Fred_Emma,0.401,0,3.15,24.64,Nonkin,0.401,1,Chimpanzee,0,OldAdult,Emma_Frederike,Louis_Emma,1.706047482
+Louis,41.96851472,Louis_Lin_Bam,M,Edinburgh,23,F,Lyndsey,Bambari,Lin_Bam,0.109,0,5.91,29.2,Nonkin,0.109,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Louis_Lyndsey,0.622806935
+Louis,41.96851472,Louis_Mis_Pearl,M,Edinburgh,10,F,Pearl,Misaki,Mis_Pearl,0,0.451,2.32,6.23,Nonkin,-0.451,-1,Chimpanzee,0,OldAdult,Pearl_Misaki,Louis_Pearl,-0.657386439
+Louis,41.96851472,Louis_Emma_Fred,M,Edinburgh,29,F,Emma,Frederike,Emma_Fred,0.227,0,3.15,24.64,Nonkin,0.227,1,Chimpanzee,0,OldAdult,Emma_Frederike,Louis_Emma,1.213665415
+Louis,41.96851472,Louis_Mis_Emma,M,Edinburgh,3,F,Emma,Misaki,Mis_Emma,0.093,0,3.15,24.64,Nonkin,0.093,1,Chimpanzee,0,OldAdult,Emma_Misaki,Louis_Emma,-1.346721332
+Louis,41.96851472,Louis_Lin_Fred,M,Edinburgh,26,F,Lyndsey,Frederike,Lin_Fred,0.467,0,5.91,29.2,Nonkin,0.467,1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Louis_Lyndsey,0.918236175
+Louis,41.96851472,Louis_Pearl_Fred,M,Edinburgh,18,F,Pearl,Frederike,Pearl_Fred,0.143,0.093,2.32,6.23,Nonkin,0.05,0.211864407,Chimpanzee,0,OldAdult,Pearl_Frederike,Louis_Pearl,0.130424868
+Louis,41.96851472,Louis_Bam_Emma,M,Edinburgh,19,F,Emma,Bambari,Bam_Emma,0.084,0.084,3.15,24.64,Nonkin,0,0,Chimpanzee,0,OldAdult,Emma_Bambari,Louis_Emma,0.228901281
+Louis,41.96851472,Louis_Mis_Lin,M,Edinburgh,33,F,Lyndsey,Misaki,Mis_Lin,0,0.151,5.91,29.2,Nonkin,-0.151,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Louis_Lyndsey,1.607571068
+Louis,41.96851472,Louis_Fred_Pearl,M,Edinburgh,27,F,Pearl,Frederike,Fred_Pearl,0.268,0,2.32,6.23,Nonkin,0.268,1,Chimpanzee,0,OldAdult,Pearl_Frederike,Louis_Pearl,1.016712588
+Louis,41.96851472,Louis_Loi_Rick,M,Edinburgh,17,M,Ricky,Loi,Loi_Rick,0.109,0.726,6.99,35.54,Nonkin,-0.617,-0.738922156,Chimpanzee,0,OldAdult,Ricky_Loi,Louis_Ricky,0.031948455
+Louis,41.96851472,Louis_Unyo_Clau,M,Edinburgh,4,M,Claus,Unyoro,Unyo_Clau,0,0.335,6.96,1.59,Nonkin,-0.335,-1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Louis_Claus,-1.248244919
+Louis,41.96851472,Louis_Bram_Kofi,M,Edinburgh,5,M,Bram,Kofi,Bram_Kofi,0,1.117,8.15,0.41,Nonkin,-1.117,-1,Chimpanzee,0,YoungAdult,Bram_Kofi,Louis_Bram,-1.149768505
+Louis,41.96851472,Louis_Kofi_Bram,M,Edinburgh,16,M,Bram,Kofi,Kofi_Bram,0.276,0,8.15,0.41,Nonkin,0.276,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Louis_Bram,-0.066527959
+Louis,41.96851472,Louis_Clau_Loi,M,Edinburgh,36,M,Claus,Loi,Clau_Loi,0,0.676,6.96,1.59,Nonkin,-0.676,-1,Chimpanzee,0,YoungAdult,Claus_Loi,Louis_Claus,1.903000308
+Louis,41.96851472,Louis_Bram_Unyo,M,Edinburgh,11,M,Bram,Unyoro,Bram_Unyo,0,0.359,8.15,0.41,Nonkin,-0.359,-1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Louis_Bram,-0.558910025
+Louis,41.96851472,Louis_Kofi_Rick,M,Edinburgh,35,M,Ricky,Kofi,Kofi_Rick,0.277,0.842,6.99,35.54,Nonkin,-0.565,-0.504915103,Chimpanzee,0,OldAdult,Ricky_Kofi,Louis_Ricky,1.804523895
+Louis,41.96851472,Louis_Bam_Lin,M,Edinburgh,32,F,Lyndsey,Bambari,Bam_Lin,0.742,0,5.91,29.2,Nonkin,0.742,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Louis_Lyndsey,1.509094655
+Louis,41.96851472,Louis_Rick_Loi,M,Edinburgh,25,M,Ricky,Loi,Rick_Loi,0,0.284,6.99,35.54,Nonkin,-0.284,-1,Chimpanzee,0,OldAdult,Ricky_Loi,Louis_Ricky,0.819759761
+Louis,41.96851472,Louis_Clau_Kofi,M,Edinburgh,20,M,Claus,Kofi,Clau_Kofi,0.076,0.184,6.96,1.59,Nonkin,-0.108,-0.415384615,Chimpanzee,0,YoungAdult,Claus_Kofi,Louis_Claus,0.327377695
+Louis,41.96851472,Louis_Loi_Bram,M,Edinburgh,21,M,Bram,Loi,Loi_Bram,0.109,0,8.15,0.41,Nonkin,0.109,1,Chimpanzee,0,YoungAdult,Bram_Loi,Louis_Bram,0.425854108
+Louis,41.96851472,Louis_Rick_Unyo,M,Edinburgh,30,M,Ricky,Unyoro,Rick_Unyo,0.576,0.109,6.99,35.54,Nonkin,0.467,0.681751825,Chimpanzee,0,OldAdult,Ricky_Unyoro,Louis_Ricky,1.312141828
+Misaki,36.94729637,Misaki_Bram_Loi,F,Kumamoto Chimpanzees,13,M,Loi,Bram,Bram_Loi,2.721,0,4.49,1.69,Nonkin,2.721,1,Chimpanzee,1,YoungAdult,Bram_Loi,Misaki_Loi,-0.361957199
+Misaki,36.94729637,Misaki_Emma_Tsu,F,Kumamoto Chimpanzees,22,F,Tsubaki,Emma,Emma_Tsu,2.334,0.247,4.49,1.69,Nonkin,2.087,0.808601317,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Misaki_Tsubaki,0.524330521
+Misaki,36.94729637,Misaki_Loi_Clau,F,Kumamoto Chimpanzees,1,M,Loi,Claus,Loi_Clau,0.854,1.575,4.49,1.69,Nonkin,-0.721,-0.296829971,Chimpanzee,1,YoungAdult,Claus_Loi,Misaki_Loi,-1.543674159
+Misaki,36.94729637,Misaki_Loi_Rick,F,Kumamoto Chimpanzees,26,M,Loi,Ricky,Loi_Rick,0.838,1.688,4.49,1.69,Nonkin,-0.85,-0.336500396,Chimpanzee,1,YoungAdult,Ricky_Loi,Misaki_Loi,0.918236175
+Misaki,36.94729637,Misaki_Rick_Loi,F,Kumamoto Chimpanzees,9,M,Loi,Ricky,Rick_Loi,0,2.997,4.49,1.69,Nonkin,-2.997,-1,Chimpanzee,1,YoungAdult,Ricky_Loi,Misaki_Loi,-0.755862852
+Misaki,36.94729637,Misaki_Clau_Loi,F,Kumamoto Chimpanzees,18,M,Loi,Claus,Clau_Loi,2.027,0.273,4.49,1.69,Nonkin,1.754,0.762608696,Chimpanzee,1,YoungAdult,Claus_Loi,Misaki_Loi,0.130424868
+Misaki,36.94729637,Misaki_Pearl_Tsu,F,Kumamoto Chimpanzees,36,F,Tsubaki,Pearl,Pearl_Tsu,2.407,0.363,4.49,1.69,Nonkin,2.044,0.737906137,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Misaki_Tsubaki,1.903000308
+Misaki,36.94729637,Misaki_Tsu_Emma,F,Kumamoto Chimpanzees,5,F,Tsubaki,Emma,Tsu_Emma,0.24,2.663,4.49,1.69,Nonkin,-2.423,-0.834653806,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Misaki_Tsubaki,-1.149768505
+Misaki,36.94729637,Misaki_Tsu_Lyn,F,Kumamoto Chimpanzees,29,F,Tsubaki,Lyndsey,Tsu_Lyn,0.205,2.713,4.49,1.69,Nonkin,-2.508,-0.859492803,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Misaki_Tsubaki,1.213665415
+Misaki,36.94729637,Misaki_Loi_Bram,F,Kumamoto Chimpanzees,31,M,Loi,Bram,Loi_Bram,0.358,0,4.49,1.69,Nonkin,0.358,1,Chimpanzee,1,YoungAdult,Bram_Loi,Misaki_Loi,1.410618242
+Misaki,36.94729637,Misaki_Tsu_Pearl,F,Kumamoto Chimpanzees,15,F,Tsubaki,Pearl,Tsu_Pearl,2.523,0,4.49,1.69,Nonkin,2.523,1,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Misaki_Tsubaki,-0.165004372
+Misaki,36.94729637,Misaki_Lyn_Tsu,F,Kumamoto Chimpanzees,12,F,Tsubaki,Lyndsey,Lyn_Tsu,2.592,0.173,4.49,1.69,Nonkin,2.419,0.874864376,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Misaki_Tsubaki,-0.460433612
+Mizuki,24.00273785,Mizuki_Emma_Tsu,F,Kumamoto Chimpanzees,20,F,Tsubaki,Emma,Emma_Tsu,1.951,0.214,4.49,1.69,Nonkin,1.737,0.802309469,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Mizuki_Tsubaki,0.327377695
+Mizuki,24.00273785,Mizuki_Pearl_Tsu,F,Kumamoto Chimpanzees,31,F,Tsubaki,Pearl,Pearl_Tsu,1.857,1.024,4.49,1.69,Nonkin,0.833,0.289135717,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Mizuki_Tsubaki,1.410618242
+Mizuki,24.00273785,Mizuki_Tsu_Emma,F,Kumamoto Chimpanzees,2,F,Tsubaki,Emma,Tsu_Emma,0,2.661,4.49,1.69,Nonkin,-2.661,-1,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Mizuki_Tsubaki,-1.445197745
+Mizuki,24.00273785,Mizuki_Loi_Rick,F,Kumamoto Chimpanzees,30,M,Loi,Ricky,Loi_Rick,0,0.651,4.49,1.69,Nonkin,-0.651,-1,Chimpanzee,1,YoungAdult,Ricky_Loi,Mizuki_Loi,1.312141828
+Mizuki,24.00273785,Mizuki_Rick_Loi,F,Kumamoto Chimpanzees,12,M,Loi,Ricky,Rick_Loi,2.863,0,4.49,1.69,Nonkin,2.863,1,Chimpanzee,1,YoungAdult,Ricky_Loi,Mizuki_Loi,-0.460433612
+Mizuki,24.00273785,Mizuki_Loi_Bram,F,Kumamoto Chimpanzees,35,M,Loi,Bram,Loi_Bram,0.184,1.691,4.49,1.69,Nonkin,-1.507,-0.803733333,Chimpanzee,1,YoungAdult,Bram_Loi,Mizuki_Loi,1.804523895
+Mizuki,24.00273785,Mizuki_Bram_Loi,F,Kumamoto Chimpanzees,17,M,Loi,Bram,Bram_Loi,2.254,0.618,4.49,1.69,Nonkin,1.636,0.569637883,Chimpanzee,1,YoungAdult,Bram_Loi,Mizuki_Loi,0.031948455
+Mizuki,24.00273785,Mizuki_Lyn_Tsu,F,Kumamoto Chimpanzees,9,F,Tsubaki,Lyndsey,Lyn_Tsu,2.231,0.204,4.49,1.69,Nonkin,2.027,0.832443532,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Mizuki_Tsubaki,-0.755862852
+Mizuki,24.00273785,Mizuki_Tsu_Pearl,F,Kumamoto Chimpanzees,13,F,Tsubaki,Pearl,Tsu_Pearl,0.258,1.157,4.49,1.69,Nonkin,-0.899,-0.635335689,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Mizuki_Tsubaki,-0.361957199
+Mizuki,24.00273785,Mizuki_Tsu_Lyn,F,Kumamoto Chimpanzees,27,F,Tsubaki,Lyndsey,Tsu_Lyn,1.31,0.678,4.49,1.69,Nonkin,0.632,0.317907445,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Mizuki_Tsubaki,1.016712588
+Mizuki,24.00273785,Mizuki_Loi_Clau,F,Kumamoto Chimpanzees,4,M,Loi,Claus,Loi_Clau,0.724,0.991,4.49,1.69,Nonkin,-0.267,-0.155685131,Chimpanzee,1,YoungAdult,Claus_Loi,Mizuki_Loi,-1.248244919
+Mizuki,24.00273785,Mizuki_Clau_Loi,F,Kumamoto Chimpanzees,22,M,Loi,Claus,Clau_Loi,1.211,1.327,4.49,1.69,Nonkin,-0.116,-0.04570528,Chimpanzee,1,YoungAdult,Claus_Loi,Mizuki_Loi,0.524330521
+Natsuki,27.13483915,Natsuki_Loi_Clau,F,Kumamoto Chimpanzees,21,M,Loi,Claus,Loi_Clau,0.723,1.613,4.49,1.69,Nonkin,-0.89,-0.380993151,Chimpanzee,1,YoungAdult,Claus_Loi,Natsuki_Loi,0.425854108
+Natsuki,27.13483915,Natsuki_Rick_Loi,F,Kumamoto Chimpanzees,29,M,Loi,Ricky,Rick_Loi,0.601,0.171,4.49,1.69,Nonkin,0.43,0.556994819,Chimpanzee,1,YoungAdult,Ricky_Loi,Natsuki_Loi,1.213665415
+Natsuki,27.13483915,Natsuki_Clau_Loi,F,Kumamoto Chimpanzees,4,M,Loi,Claus,Clau_Loi,1.346,1.142,4.49,1.69,Nonkin,0.204,0.081993569,Chimpanzee,1,YoungAdult,Claus_Loi,Natsuki_Loi,-1.248244919
+Natsuki,27.13483915,Natsuki_Loi_Rick,F,Kumamoto Chimpanzees,12,M,Loi,Ricky,Loi_Rick,2.482,0,4.49,1.69,Nonkin,2.482,1,Chimpanzee,1,YoungAdult,Ricky_Loi,Natsuki_Loi,-0.460433612
+Natsuki,27.13483915,Natsuki_Tsu_Pearl,F,Kumamoto Chimpanzees,30,F,Tsubaki,Pearl,Tsu_Pearl,0.367,2.186,4.49,1.69,Kin,-1.819,-0.712495104,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Natsuki_Tsubaki,1.312141828
+Natsuki,27.13483915,Natsuki_Bram_Loi,F,Kumamoto Chimpanzees,33,M,Loi,Bram,Bram_Loi,2.85,0,4.49,1.69,Nonkin,2.85,1,Chimpanzee,1,YoungAdult,Bram_Loi,Natsuki_Loi,1.607571068
+Natsuki,27.13483915,Natsuki_Tsu_Emma,F,Kumamoto Chimpanzees,19,F,Tsubaki,Emma,Tsu_Emma,0.67,1.97,4.49,1.69,Kin,-1.3,-0.492424242,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Natsuki_Tsubaki,0.228901281
+Natsuki,27.13483915,Natsuki_Tsu_Lyn,F,Kumamoto Chimpanzees,9,F,Tsubaki,Lyndsey,Tsu_Lyn,2.428,0.178,4.49,1.69,Kin,2.25,0.863392172,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Natsuki_Tsubaki,-0.755862852
+Natsuki,27.13483915,Natsuki_Loi_Bram,F,Kumamoto Chimpanzees,16,M,Loi,Bram,Loi_Bram,0.495,0.558,4.49,1.69,Nonkin,-0.063,-0.05982906,Chimpanzee,1,YoungAdult,Bram_Loi,Natsuki_Loi,-0.066527959
+Natsuki,27.13483915,Natsuki_Pearl_Tsu,F,Kumamoto Chimpanzees,13,F,Tsubaki,Pearl,Pearl_Tsu,2.588,0,4.49,1.69,Kin,2.588,1,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Natsuki_Tsubaki,-0.361957199
+Natsuki,27.13483915,Natsuki_Emma_Tsu,F,Kumamoto Chimpanzees,2,F,Tsubaki,Emma,Emma_Tsu,0.941,1.391,4.49,1.69,Kin,-0.45,-0.19296741,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Natsuki_Tsubaki,-1.445197745
+Natsuki,27.13483915,Natsuki_Lyn_Tsu,F,Kumamoto Chimpanzees,26,F,Tsubaki,Lyndsey,Lyn_Tsu,0.623,1.88,4.49,1.69,Kin,-1.257,-0.502197363,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Natsuki_Tsubaki,0.918236175
+Nayoki,6.491444216,Nayoki_Wak_Ling,F,Planckendael,2,F,Lingoye,Waka,Wak_Ling,1.367,0.226,3.39,4.51,Nonkin,1.141,0.716258632,Bonobo,0,Adolescent,Lingoye_Waka,Nayoki_Lingoye,-1.445197745
+Nayoki,6.491444216,Nayoki_Ling_Wak,F,Planckendael,10,F,Lingoye,Waka,Ling_Wak,0,1.209,3.39,4.51,Nonkin,-1.209,-1,Bonobo,0,Adolescent,Lingoye_Waka,Nayoki_Lingoye,-0.657386439
+Nayoki,6.491444216,Nayoki_Ling_Luk,F,Planckendael,6,F,Lingoye,Lukuru,Ling_Luk,0.192,0.068,3.39,4.51,Nonkin,0.124,0.476923077,Bonobo,0,Adolescent,Lingoye_Lukuru,Nayoki_Lingoye,-1.051292092
+Nayoki,6.491444216,Nayoki_Luk_Ling,F,Planckendael,14,F,Lingoye,Lukuru,Luk_Ling,0.159,0,3.39,4.51,Nonkin,0.159,1,Bonobo,0,Adolescent,Lingoye_Lukuru,Nayoki_Lingoye,-0.263480785
+Qafzeh,26.28884326,Qafzeh_Pearl_Bam,M,Edinburgh,13,F,Pearl,Bambari,Pearl_Bam,0,1.209,2.32,6.23,Nonkin,-1.209,-1,Chimpanzee,0,OldAdult,Pearl_Bambari,Qafzeh_Pearl,-0.361957199
+Qafzeh,26.28884326,Qafzeh_Fred_Lin,M,Edinburgh,15,F,Lyndsey,Frederike,Fred_Lin,2.49,0,5.91,20.93,Nonkin,2.49,1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Qafzeh_Lyndsey,-0.165004372
+Qafzeh,26.28884326,Qafzeh_Bam_Pearl,M,Edinburgh,3,F,Pearl,Bambari,Bam_Pearl,0.125,2.343,2.32,6.23,Nonkin,-2.218,-0.898703404,Chimpanzee,0,OldAdult,Pearl_Bambari,Qafzeh_Pearl,-1.346721332
+Qafzeh,26.28884326,Qafzeh_Loi_Bram,M,Edinburgh,30,M,Bram,Loi,Loi_Bram,0,1.767,8.15,0.41,Nonkin,-1.767,-1,Chimpanzee,0,YoungAdult,Bram_Loi,Qafzeh_Bram,1.312141828
+Qafzeh,26.28884326,Qafzeh_Rick_Unyo,M,Edinburgh,22,M,Ricky,Unyoro,Rick_Unyo,0.335,0.168,6.99,19.85,Nonkin,0.167,0.332007952,Chimpanzee,0,OldAdult,Ricky_Unyoro,Qafzeh_Ricky,0.524330521
+Qafzeh,26.28884326,Qafzeh_Kofi_Clau,M,Edinburgh,7,M,Claus,Kofi,Kofi_Clau,0,0.076,6.96,1.59,Nonkin,-0.076,-1,Chimpanzee,0,YoungAdult,Claus_Kofi,Qafzeh_Claus,-0.952815679
+Qafzeh,26.28884326,Qafzeh_Bram_Loi,M,Edinburgh,25,M,Bram,Loi,Bram_Loi,0,1.9,8.15,0.41,Nonkin,-1.9,-1,Chimpanzee,0,YoungAdult,Bram_Loi,Qafzeh_Bram,0.819759761
+Qafzeh,26.28884326,Qafzeh_Unyo_Rick,M,Edinburgh,8,M,Ricky,Unyoro,Unyo_Rick,0.234,0,6.99,19.85,Nonkin,0.234,1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Qafzeh_Ricky,-0.854339265
+Qafzeh,26.28884326,Qafzeh_Lin_Fred,M,Edinburgh,36,F,Lyndsey,Frederike,Lin_Fred,1.476,0,5.91,20.93,Nonkin,1.476,1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Qafzeh_Lyndsey,1.903000308
+Qafzeh,26.28884326,Qafzeh_Pearl_Fred,M,Edinburgh,19,F,Pearl,Frederike,Pearl_Fred,0,0.159,2.32,6.23,Nonkin,-0.159,-1,Chimpanzee,0,OldAdult,Pearl_Frederike,Qafzeh_Pearl,0.228901281
+Qafzeh,26.28884326,Qafzeh_Mis_Lin,M,Edinburgh,32,F,Lyndsey,Misaki,Mis_Lin,0,0.751,5.91,20.93,Nonkin,-0.751,-1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Qafzeh_Lyndsey,1.509094655
+Qafzeh,26.28884326,Qafzeh_Fred_Pearl,M,Edinburgh,26,F,Pearl,Frederike,Fred_Pearl,0.259,0.776,2.32,6.23,Nonkin,-0.517,-0.499516908,Chimpanzee,0,OldAdult,Pearl_Frederike,Qafzeh_Pearl,0.918236175
+Qafzeh,26.28884326,Qafzeh_Mis_Pearl,M,Edinburgh,9,F,Pearl,Misaki,Mis_Pearl,0.084,0.276,2.32,6.23,Nonkin,-0.192,-0.533333333,Chimpanzee,0,OldAdult,Pearl_Misaki,Qafzeh_Pearl,-0.755862852
+Qafzeh,26.28884326,Qafzeh_Bam_Lin,M,Edinburgh,31,F,Lyndsey,Bambari,Bam_Lin,0.242,0.309,5.91,20.93,Nonkin,-0.067,-0.121597096,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Qafzeh_Lyndsey,1.410618242
+Qafzeh,26.28884326,Qafzeh_Clau_Loi,M,Edinburgh,11,M,Claus,Loi,Clau_Loi,0.959,1.967,6.96,1.59,Nonkin,-1.008,-0.344497608,Chimpanzee,0,YoungAdult,Claus_Loi,Qafzeh_Claus,-0.558910025
+Qafzeh,26.28884326,Qafzeh_Bram_Unyo,M,Edinburgh,12,M,Bram,Unyoro,Bram_Unyo,0.084,0,8.15,0.41,Nonkin,0.084,1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Qafzeh_Bram,-0.460433612
+Qafzeh,26.28884326,Qafzeh_Kofi_Rick,M,Edinburgh,29,M,Ricky,Kofi,Kofi_Rick,1.193,0.334,6.99,19.85,Nonkin,0.859,0.56254093,Chimpanzee,0,OldAdult,Ricky_Kofi,Qafzeh_Ricky,1.213665415
+Qafzeh,26.28884326,Qafzeh_Loi_Clau,M,Edinburgh,1,M,Claus,Loi,Loi_Clau,0,0.541,6.96,1.59,Nonkin,-0.541,-1,Chimpanzee,0,YoungAdult,Claus_Loi,Qafzeh_Claus,-1.543674159
+Qafzeh,26.28884326,Qafzeh_Unyo_Bram,M,Edinburgh,24,M,Bram,Unyoro,Unyo_Bram,0.093,0,8.15,0.41,Nonkin,0.093,1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Qafzeh_Bram,0.721283348
+Qafzeh,26.28884326,Qafzeh_Rick_Kofi,M,Edinburgh,2,M,Ricky,Kofi,Rick_Kofi,1.217,0.201,6.99,19.85,Nonkin,1.016,0.716502116,Chimpanzee,0,OldAdult,Ricky_Kofi,Qafzeh_Ricky,-1.445197745
+Qafzeh,26.28884326,Qafzeh_Clau_Unyo,M,Edinburgh,16,M,Claus,Unyoro,Clau_Unyo,0,0.701,6.96,1.59,Nonkin,-0.701,-1,Chimpanzee,0,YoungAdult,Claus_Unyoro,Qafzeh_Claus,-0.066527959
+Qafzeh,26.28884326,Qafzeh_Kofi_Bram,M,Edinburgh,17,M,Bram,Kofi,Kofi_Bram,0.393,0,8.15,0.41,Nonkin,0.393,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Qafzeh_Bram,0.031948455
+Qafzeh,26.28884326,Qafzeh_Lin_Mis,M,Edinburgh,28,F,Lyndsey,Misaki,Lin_Mis,0.992,0.168,5.91,20.93,Nonkin,0.824,0.710344828,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Qafzeh_Lyndsey,1.115189002
+Qafzeh,26.28884326,Qafzeh_Pearl_Mis,M,Edinburgh,23,F,Pearl,Misaki,Pearl_Mis,0.567,0,2.32,6.23,Nonkin,0.567,1,Chimpanzee,0,OldAdult,Pearl_Misaki,Qafzeh_Pearl,0.622806935
+Qafzeh,26.28884326,Qafzeh_Lin_Bam,M,Edinburgh,34,F,Lyndsey,Bambari,Lin_Bam,0.334,0,5.91,20.93,Nonkin,0.334,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Qafzeh_Lyndsey,1.706047482
+Qafzeh,26.28884326,Qafzeh_Rick_Loi,M,Edinburgh,6,M,Ricky,Loi,Rick_Loi,1.326,0.326,6.99,19.85,Nonkin,1,0.605326877,Chimpanzee,0,OldAdult,Ricky_Loi,Qafzeh_Ricky,-1.051292092
+Qafzeh,26.28884326,Qafzeh_Clau_Kofi,M,Edinburgh,21,M,Claus,Kofi,Clau_Kofi,0,0.384,6.96,1.59,Nonkin,-0.384,-1,Chimpanzee,0,YoungAdult,Claus_Kofi,Qafzeh_Claus,0.425854108
+Qafzeh,26.28884326,Qafzeh_Loi_Rick,M,Edinburgh,18,M,Ricky,Loi,Loi_Rick,0.084,0,6.99,19.85,Nonkin,0.084,1,Chimpanzee,0,OldAdult,Ricky_Loi,Qafzeh_Ricky,0.130424868
+Qafzeh,26.28884326,Qafzeh_Emma_Mis,M,Edinburgh,14,F,Emma,Misaki,Emma_Mis,0,0.983,3.15,23.68,Kin,-0.983,-1,Chimpanzee,0,OldAdult,Emma_Misaki,Qafzeh_Emma,-0.263480785
+Qafzeh,26.28884326,Qafzeh_Mis_Emma,M,Edinburgh,4,F,Emma,Misaki,Mis_Emma,0,0.532,3.15,23.68,Kin,-0.532,-1,Chimpanzee,0,OldAdult,Emma_Misaki,Qafzeh_Emma,-1.248244919
+Qafzeh,26.28884326,Qafzeh_Bam_Emma,M,Edinburgh,20,F,Emma,Bambari,Bam_Emma,0.351,1.867,3.15,23.68,Kin,-1.516,-0.683498647,Chimpanzee,0,OldAdult,Emma_Bambari,Qafzeh_Emma,0.327377695
+Qafzeh,26.28884326,Qafzeh_Unyo_Clau,M,Edinburgh,35,M,Claus,Unyoro,Unyo_Clau,0.076,0.334,6.96,1.59,Nonkin,-0.258,-0.629268293,Chimpanzee,0,YoungAdult,Claus_Unyoro,Qafzeh_Claus,1.804523895
+Qafzeh,26.28884326,Qafzeh_Bram_Kofi,M,Edinburgh,5,M,Bram,Kofi,Bram_Kofi,0.585,0,8.15,0.41,Nonkin,0.585,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Qafzeh_Bram,-1.149768505
+Qafzeh,26.28884326,Qafzeh_Emma_Fred,M,Edinburgh,10,F,Emma,Frederike,Emma_Fred,0,0.226,3.15,23.68,Kin,-0.226,-1,Chimpanzee,0,OldAdult,Emma_Frederike,Qafzeh_Emma,-0.657386439
+Qafzeh,26.28884326,Qafzeh_Emma_Bam,M,Edinburgh,27,F,Emma,Bambari,Emma_Bam,1.058,0,3.15,23.68,Kin,1.058,1,Chimpanzee,0,OldAdult,Emma_Bambari,Qafzeh_Emma,1.016712588
+Qafzeh,26.28884326,Qafzeh_Fred_Emma,M,Edinburgh,33,F,Emma,Frederike,Fred_Emma,0,0.426,3.15,23.68,Kin,-0.426,-1,Chimpanzee,0,OldAdult,Emma_Frederike,Qafzeh_Emma,1.607571068
+Rene,25.39356605,Rene_Lin_Mis,M,Edinburgh,9,F,Lyndsey,Misaki,Lin_Mis,0.068,0,5.91,2.65,Nonkin,0.068,1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Rene_Lyndsey,-0.755862852
+Rene,25.39356605,Rene_Mis_Pearl,M,Edinburgh,24,F,Pearl,Misaki,Mis_Pearl,0,0.218,2.32,9.54,Nonkin,-0.218,-1,Chimpanzee,0,OldAdult,Pearl_Misaki,Rene_Pearl,0.721283348
+Rene,25.39356605,Rene_Lin_Bam,M,Edinburgh,30,F,Lyndsey,Bambari,Lin_Bam,0.201,0,5.91,2.65,Nonkin,0.201,1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Rene_Lyndsey,1.312141828
+Rene,25.39356605,Rene_Emma_Bam,M,Edinburgh,23,F,Emma,Bambari,Emma_Bam,0.209,0,3.15,5.4,Nonkin,0.209,1,Chimpanzee,0,OldAdult,Emma_Bambari,Rene_Emma,0.622806935
+Rene,25.39356605,Rene_Pearl_Mis,M,Edinburgh,29,F,Pearl,Misaki,Pearl_Mis,0,0.184,2.32,9.54,Nonkin,-0.184,-1,Chimpanzee,0,OldAdult,Pearl_Misaki,Rene_Pearl,1.213665415
+Rene,25.39356605,Rene_Fred_Emma,M,Edinburgh,18,F,Emma,Frederike,Fred_Emma,0.118,0.134,3.15,5.4,Nonkin,-0.016,-0.063492063,Chimpanzee,0,OldAdult,Emma_Frederike,Rene_Emma,0.130424868
+Rene,25.39356605,Rene_Fred_Pearl,M,Edinburgh,34,F,Pearl,Frederike,Fred_Pearl,0,0.143,2.32,9.54,Nonkin,-0.143,-1,Chimpanzee,0,OldAdult,Pearl_Frederike,Rene_Pearl,1.706047482
+Rene,25.39356605,Rene_Kofi_Bram,M,Edinburgh,15,M,Bram,Kofi,Kofi_Bram,0.068,0,8.15,3.71,Nonkin,0.068,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Rene_Bram,-0.165004372
+Rene,25.39356605,Rene_Unyo_Bram,M,Edinburgh,31,M,Bram,Unyoro,Unyo_Bram,0,0.068,8.15,3.71,Nonkin,-0.068,-1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Rene_Bram,1.410618242
+Rene,25.39356605,Rene_Rick_Kofi,M,Edinburgh,19,M,Ricky,Kofi,Rick_Kofi,0.376,0.118,6.99,1.57,Nonkin,0.258,0.522267206,Chimpanzee,0,OldAdult,Ricky_Kofi,Rene_Ricky,0.228901281
+Rene,25.39356605,Rene_Kin_Unyo,M,Edinburgh,5,M,Kindia,Unyoro,Kin_Unyo,0.101,0,0.73,7.83,Nonkin,0.101,1,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Rene_Kindia,-1.149768505
+Rene,25.39356605,Rene_Kin_Loi,M,Edinburgh,1,M,Kindia,Loi,Kin_Loi,0.184,0,0.73,7.83,Nonkin,0.184,1,Chimpanzee,0,YoungAdult,Kindia_Loi,Rene_Kindia,-1.543674159
+Rene,25.39356605,Rene_Pearl_Bam,M,Edinburgh,12,F,Pearl,Bambari,Pearl_Bam,0.309,0,2.32,9.54,Nonkin,0.309,1,Chimpanzee,0,OldAdult,Pearl_Bambari,Rene_Pearl,-0.460433612
+Rene,25.39356605,Rene_Emma_Fred,M,Edinburgh,25,F,Emma,Frederike,Emma_Fred,0.451,0.109,3.15,5.4,Nonkin,0.342,0.610714286,Chimpanzee,0,OldAdult,Emma_Frederike,Rene_Emma,0.819759761
+Rene,25.39356605,Rene_Bam_Lin,M,Edinburgh,26,F,Lyndsey,Bambari,Bam_Lin,0,0.259,5.91,2.65,Nonkin,-0.259,-1,Chimpanzee,0,OldAdult,Lyndsey_Bambari,Rene_Lyndsey,0.918236175
+Rene,25.39356605,Rene_Bam_Emma,M,Edinburgh,13,F,Emma,Bambari,Bam_Emma,0,0.068,3.15,5.4,Nonkin,-0.068,-1,Chimpanzee,0,OldAdult,Emma_Bambari,Rene_Emma,-0.361957199
+Rene,25.39356605,Rene_Mis_Lin,M,Edinburgh,14,F,Lyndsey,Misaki,Mis_Lin,0.158,0,5.91,2.65,Nonkin,0.158,1,Chimpanzee,0,OldAdult,Lyndsey_Misaki,Rene_Lyndsey,-0.263480785
+Rene,25.39356605,Rene_Unyo_Rick,M,Edinburgh,20,M,Ricky,Unyoro,Unyo_Rick,0,0.793,6.99,1.57,Nonkin,-0.793,-1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Rene_Ricky,0.327377695
+Rene,25.39356605,Rene_Unyo_Kin,M,Edinburgh,22,M,Kindia,Unyoro,Unyo_Kin,0,0.151,0.73,7.83,Nonkin,-0.151,-1,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Rene_Kindia,0.524330521
+Rene,25.39356605,Rene_Bram_Kofi,M,Edinburgh,32,M,Bram,Kofi,Bram_Kofi,0.134,0,8.15,3.71,Nonkin,0.134,1,Chimpanzee,0,YoungAdult,Bram_Kofi,Rene_Bram,1.509094655
+Rene,25.39356605,Rene_Rick_Loi,M,Edinburgh,36,M,Ricky,Loi,Rick_Loi,0.234,0,6.99,1.57,Nonkin,0.234,1,Chimpanzee,0,OldAdult,Ricky_Loi,Rene_Ricky,1.903000308
+Rene,25.39356605,Rene_Loi_Rick,M,Edinburgh,6,M,Ricky,Loi,Loi_Rick,0,0.958,6.99,1.57,Nonkin,-0.958,-1,Chimpanzee,0,OldAdult,Ricky_Loi,Rene_Ricky,-1.051292092
+Rene,25.39356605,Rene_Loi_Bram,M,Edinburgh,17,M,Bram,Loi,Loi_Bram,0.068,0,8.15,3.71,Nonkin,0.068,1,Chimpanzee,0,YoungAdult,Bram_Loi,Rene_Bram,0.031948455
+Rene,25.39356605,Rene_Bram_Unyo,M,Edinburgh,2,M,Bram,Unyoro,Bram_Unyo,0.176,0,8.15,3.71,Nonkin,0.176,1,Chimpanzee,0,YoungAdult,Bram_Unyoro,Rene_Bram,-1.445197745
+Rene,25.39356605,Rene_Kofi_Rick,M,Edinburgh,3,M,Ricky,Kofi,Kofi_Rick,0,0.292,6.99,1.57,Nonkin,-0.292,-1,Chimpanzee,0,OldAdult,Ricky_Kofi,Rene_Ricky,-1.346721332
+Rene,25.39356605,Rene_Kin_Kofi,M,Edinburgh,7,M,Kindia,Kofi,Kin_Kofi,0,0.084,0.73,7.83,Nonkin,-0.084,-1,Chimpanzee,0,YoungAdult,Kindia_Kofi,Rene_Kindia,-0.952815679
+Rene,25.39356605,Rene_Fred_Lin,M,Edinburgh,28,F,Lyndsey,Frederike,Fred_Lin,0,0.109,5.91,2.65,Nonkin,-0.109,-1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Rene_Lyndsey,1.115189002
+Rene,25.39356605,Rene_Bam_Pearl,M,Edinburgh,35,F,Pearl,Bambari,Bam_Pearl,0,0.101,2.32,9.54,Nonkin,-0.101,-1,Chimpanzee,0,OldAdult,Pearl_Bambari,Rene_Pearl,1.804523895
+Rene,25.39356605,Rene_Rick_Unyo,M,Edinburgh,16,M,Ricky,Unyoro,Rick_Unyo,0,0.093,6.99,1.57,Nonkin,-0.093,-1,Chimpanzee,0,OldAdult,Ricky_Unyoro,Rene_Ricky,-0.066527959
+Rene,25.39356605,Rene_Loi_Kin,M,Edinburgh,8,M,Kindia,Loi,Loi_Kin,0,0.309,0.73,7.83,Nonkin,-0.309,-1,Chimpanzee,0,YoungAdult,Kindia_Loi,Rene_Kindia,-0.854339265
+Rene,25.39356605,Rene_Bram_Loi,M,Edinburgh,11,M,Bram,Loi,Bram_Loi,0.318,0,8.15,3.71,Nonkin,0.318,1,Chimpanzee,0,YoungAdult,Bram_Loi,Rene_Bram,-0.558910025
+Rene,25.39356605,Rene_Pearl_Fred,M,Edinburgh,4,F,Pearl,Frederike,Pearl_Fred,0.326,0,2.32,9.54,Nonkin,0.326,1,Chimpanzee,0,OldAdult,Pearl_Frederike,Rene_Pearl,-1.248244919
+Rene,25.39356605,Rene_Emma_Mis,M,Edinburgh,27,F,Emma,Misaki,Emma_Mis,0.384,0,3.15,5.4,Nonkin,0.384,1,Chimpanzee,0,OldAdult,Emma_Misaki,Rene_Emma,1.016712588
+Rene,25.39356605,Rene_Lin_Fred,M,Edinburgh,33,F,Lyndsey,Frederike,Lin_Fred,0.325,0,5.91,2.65,Nonkin,0.325,1,Chimpanzee,0,OldAdult,Lyndsey_Frederike,Rene_Lyndsey,1.607571068
+Rene,25.39356605,Rene_Kofi_Kin,M,Edinburgh,10,M,Kindia,Kofi,Kofi_Kin,0,0.401,0.73,7.83,Nonkin,-0.401,-1,Chimpanzee,0,YoungAdult,Kindia_Kofi,Rene_Kindia,-0.657386439
+Rene,25.39356605,Rene_Mis_Emma,M,Edinburgh,21,F,Emma,Misaki,Mis_Emma,0.068,0,3.15,5.4,Nonkin,0.068,1,Chimpanzee,0,OldAdult,Emma_Misaki,Rene_Emma,0.425854108
+Velu,4.057494867,Velu_Mis_Emma,M,Edinburgh,20,F,Emma,Misaki,Mis_Emma,0.876,0.401,3.15,1.44,Nonkin,0.475,0.371965544,Chimpanzee,0,OldAdult,Emma_Misaki,Velu_Emma,0.327377695
+Velu,4.057494867,Velu_Bam_Pearl,M,Edinburgh,19,F,Pearl,Bambari,Bam_Pearl,0.268,1.108,2.32,2.27,Nonkin,-0.84,-0.610465116,Chimpanzee,0,OldAdult,Pearl_Bambari,Velu_Pearl,0.228901281
+Velu,4.057494867,Velu_Unyo_Kin,M,Edinburgh,22,M,Kindia,Unyoro,Unyo_Kin,0.368,0.284,0.73,3.86,Nonkin,0.084,0.128834356,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Velu_Kindia,0.524330521
+Velu,4.057494867,Velu_Emma_Mis,M,Edinburgh,5,F,Emma,Misaki,Emma_Mis,0.409,0.118,3.15,1.44,Nonkin,0.291,0.552182163,Chimpanzee,0,OldAdult,Emma_Misaki,Velu_Emma,-1.149768505
+Velu,4.057494867,Velu_Kin_Unyo,M,Edinburgh,7,M,Kindia,Unyoro,Kin_Unyo,0,0.334,0.73,3.86,Nonkin,-0.334,-1,Chimpanzee,0,YoungAdult,Kindia_Unyoro,Velu_Kindia,-0.952815679
+Velu,4.057494867,Velu_Bam_Emma,M,Edinburgh,10,F,Emma,Bambari,Bam_Emma,0.834,0.967,3.15,1.44,Nonkin,-0.133,-0.073847862,Chimpanzee,0,OldAdult,Emma_Bambari,Velu_Emma,-0.657386439
+Velu,4.057494867,Velu_Pearl_Bam,M,Edinburgh,4,F,Pearl,Bambari,Pearl_Bam,0.593,0.618,2.32,2.27,Nonkin,-0.025,-0.020644096,Chimpanzee,0,OldAdult,Pearl_Bambari,Velu_Pearl,-1.248244919
+Velu,4.057494867,Velu_Pearl_Fred,M,Edinburgh,9,F,Pearl,Frederike,Pearl_Fred,0.743,0.343,2.32,2.27,Nonkin,0.4,0.368324125,Chimpanzee,0,OldAdult,Pearl_Frederike,Velu_Pearl,-0.755862852
+Velu,4.057494867,Velu_Emma_Bam,M,Edinburgh,25,F,Emma,Bambari,Emma_Bam,0.234,1.442,3.15,1.44,Nonkin,-1.208,-0.720763723,Chimpanzee,0,OldAdult,Emma_Bambari,Velu_Emma,0.819759761
+Velu,4.057494867,Velu_Kin_Kofi,M,Edinburgh,12,M,Kindia,Kofi,Kin_Kofi,0.192,0.534,0.73,3.86,Nonkin,-0.342,-0.47107438,Chimpanzee,0,YoungAdult,Kindia_Kofi,Velu_Kindia,-0.460433612
+Velu,4.057494867,Velu_Kofi_Kin,M,Edinburgh,27,M,Kindia,Kofi,Kofi_Kin,0.368,0.401,0.73,3.86,Nonkin,-0.033,-0.042912874,Chimpanzee,0,YoungAdult,Kindia_Kofi,Velu_Kindia,1.016712588
+Velu,4.057494867,Velu_Loi_Kin,M,Edinburgh,17,M,Kindia,Loi,Loi_Kin,0,0.801,0.73,3.86,Nonkin,-0.801,-1,Chimpanzee,0,YoungAdult,Kindia_Loi,Velu_Kindia,0.031948455
+Velu,4.057494867,Velu_Kin_Loi,M,Edinburgh,1,M,Kindia,Loi,Kin_Loi,0.285,0.068,0.73,3.86,Nonkin,0.217,0.614730878,Chimpanzee,0,YoungAdult,Kindia_Loi,Velu_Kindia,-1.543674159
+Velu,4.057494867,Velu_Emma_Fred,M,Edinburgh,31,F,Emma,Frederike,Emma_Fred,0.134,0.093,3.15,1.44,Nonkin,0.041,0.18061674,Chimpanzee,0,OldAdult,Emma_Frederike,Velu_Emma,1.410618242
+Velu,4.057494867,Velu_Pearl_Mis,M,Edinburgh,15,F,Pearl,Misaki,Pearl_Mis,1.758,0.251,2.32,2.27,Nonkin,1.507,0.75012444,Chimpanzee,0,OldAdult,Pearl_Misaki,Velu_Pearl,-0.165004372
+Velu,4.057494867,Velu_Fred_Pearl,M,Edinburgh,24,F,Pearl,Frederike,Fred_Pearl,0.743,0.459,2.32,2.27,Nonkin,0.284,0.236272879,Chimpanzee,0,OldAdult,Pearl_Frederike,Velu_Pearl,0.721283348
+Velu,4.057494867,Velu_Mis_Pearl,M,Edinburgh,30,F,Pearl,Misaki,Mis_Pearl,0.16,0.392,2.32,2.27,Nonkin,-0.232,-0.420289855,Chimpanzee,0,OldAdult,Pearl_Misaki,Velu_Pearl,1.312141828
+Velu,4.057494867,Velu_Fred_Emma,M,Edinburgh,16,F,Emma,Frederike,Fred_Emma,0.718,0.276,3.15,1.44,Nonkin,0.442,0.444668008,Chimpanzee,0,OldAdult,Emma_Frederike,Velu_Emma,-0.066527959
+Zamba,46.21492129,Zamba_Loi_Clau,M,Kumamoto Chimpanzees,1,M,Loi,Claus,Loi_Clau,2.39,0.18,4.49,1.69,Nonkin,2.21,0.859922179,Chimpanzee,1,YoungAdult,Claus_Loi,Zamba_Loi,-1.543674159
+Zamba,46.21492129,Zamba_Rick_Loi,M,Kumamoto Chimpanzees,9,M,Loi,Ricky,Rick_Loi,0,1.041,4.49,1.69,Nonkin,-1.041,-1,Chimpanzee,1,YoungAdult,Ricky_Loi,Zamba_Loi,-0.755862852
+Zamba,46.21492129,Zamba_Loi_Bram,M,Kumamoto Chimpanzees,31,M,Loi,Bram,Loi_Bram,2.997,0,4.49,1.69,Nonkin,2.997,1,Chimpanzee,1,YoungAdult,Bram_Loi,Zamba_Loi,1.410618242
+Zamba,46.21492129,Zamba_Clau_Loi,M,Kumamoto Chimpanzees,19,M,Loi,Claus,Clau_Loi,1.811,0.131,4.49,1.69,Nonkin,1.68,0.865087539,Chimpanzee,1,YoungAdult,Claus_Loi,Zamba_Loi,0.228901281
+Zamba,46.21492129,Zamba_Loi_Rick,M,Kumamoto Chimpanzees,36,M,Loi,Ricky,Loi_Rick,2.248,0.198,4.49,1.69,Nonkin,2.05,0.838103025,Chimpanzee,1,YoungAdult,Ricky_Loi,Zamba_Loi,1.903000308
+Zamba,46.21492129,Zamba_Pearl_Tsu,M,Kumamoto Chimpanzees,33,F,Tsubaki,Pearl,Pearl_Tsu,1.03,0.951,4.49,1.69,Nonkin,0.079,0.039878849,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Zamba_Tsubaki,1.607571068
+Zamba,46.21492129,Zamba_Tsu_Pearl,M,Kumamoto Chimpanzees,16,F,Tsubaki,Pearl,Tsu_Pearl,2.477,0.253,4.49,1.69,Nonkin,2.224,0.814652015,Chimpanzee,1,YoungAdult,Tsubaki_Pearl,Zamba_Tsubaki,-0.066527959
+Zamba,46.21492129,Zamba_Emma_Tsu,M,Kumamoto Chimpanzees,23,F,Tsubaki,Emma,Emma_Tsu,0,2.857,4.49,1.69,Nonkin,-2.857,-1,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Zamba_Tsubaki,0.622806935
+Zamba,46.21492129,Zamba_Tsu_Emma,M,Kumamoto Chimpanzees,5,F,Tsubaki,Emma,Tsu_Emma,2.443,0.197,4.49,1.69,Nonkin,2.246,0.850757576,Chimpanzee,1,YoungAdult,Tsubaki_Emma,Zamba_Tsubaki,-1.149768505
+Zamba,46.21492129,Zamba_Bram_Loi,M,Kumamoto Chimpanzees,14,M,Loi,Bram,Bram_Loi,0.3,2.203,4.49,1.69,Nonkin,-1.903,-0.760287655,Chimpanzee,1,YoungAdult,Bram_Loi,Zamba_Loi,-0.263480785
+Zamba,46.21492129,Zamba_Lyn_Tsu,M,Kumamoto Chimpanzees,12,F,Tsubaki,Lyndsey,Lyn_Tsu,2.98,0,4.49,1.69,Nonkin,2.98,1,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Zamba_Tsubaki,-0.460433612
+Zamba,46.21492129,Zamba_Tsu_Lyn,M,Kumamoto Chimpanzees,29,F,Tsubaki,Lyndsey,Tsu_Lyn,2.985,0,4.49,1.69,Nonkin,2.985,1,Chimpanzee,1,YoungAdult,Tsubaki_Lyndsey,Zamba_Tsubaki,1.213665415
+Ikela,27.21971253,Ikela_Kido_Erin,F,Kumamoto Bonobos,9,M,Erin,Kidogo,Kido_Erin,1.926,0.413,5.48,4.05,Nonkin,1.513,0.646857631,Bonobo,1,YoungAdult,Erin_Kidogo,Ikela_Erin,-0.755862852
+Ikela,27.21971253,Ikela_Erin_Kire,F,Kumamoto Bonobos,17,M,Erin,Kirembo,Erin_Kire,2.304,0.418,5.48,4.05,Nonkin,1.886,0.692872888,Bonobo,1,YoungAdult,Erin_Kirembo,Ikela_Erin,0.031948455
+Ikela,27.21971253,Ikela_Kire_Erin,F,Kumamoto Bonobos,25,M,Erin,Kirembo,Kire_Erin,2.042,0.424,5.48,4.05,Nonkin,1.618,0.656123277,Bonobo,1,YoungAdult,Erin_Kirembo,Ikela_Erin,0.819759761
+Ikela,27.21971253,Ikela_Erin_Kido,F,Kumamoto Bonobos,1,M,Erin,Kidogo,Erin_Kido,2.159,0.341,5.48,4.05,Nonkin,1.818,0.7272,Bonobo,1,YoungAdult,Erin_Kidogo,Ikela_Erin,-1.543674159
+Ikela,27.21971253,Ikela_Kalli_Ling,F,Kumamoto Bonobos,14,F,Kalli,Lingoye,Kalli_Ling,1.848,0.675,5.48,2.67,Nonkin,1.173,0.464922711,Bonobo,1,Adolescent,Kalli_Lingoye,Ikela_Kalli,-0.263480785
+Ikela,27.21971253,Ikela_Jas_Kalli,F,Kumamoto Bonobos,22,F,Kalli,Jasiri,Jas_Kalli,1.934,0.634,5.48,2.67,Nonkin,1.3,0.50623053,Bonobo,1,Adolescent,Kalli_Jasiri,Ikela_Kalli,0.524330521
+Ikela,27.21971253,Ikela_Kalli_Jas,F,Kumamoto Bonobos,30,F,Kalli,Jasiri,Kalli_Jas,2.51,0.261,5.48,2.67,Nonkin,2.249,0.811620354,Bonobo,1,Adolescent,Kalli_Jasiri,Ikela_Kalli,1.312141828
+Ikela,27.21971253,Ikela_Ling_Kalli,F,Kumamoto Bonobos,6,F,Kalli,Lingoye,Ling_Kalli,0.938,1.462,5.48,2.67,Nonkin,-0.524,-0.218333333,Bonobo,1,Adolescent,Kalli_Lingoye,Ikela_Kalli,-1.051292092
+Ikela,27.21971253,Ikela_Loretta_Herm,F,Kumamoto Bonobos,5,F,Loretta,Hermien,Loretta_Herm,2.107,0.371,NA,NA,Kin,1.736,0.700564972,Bonobo,1,YoungAdult,Loretta_Hermien,Ikela_Loretta,-1.149768505
+Ikela,27.21971253,Ikela_Loretta_Lome,F,Kumamoto Bonobos,21,F,Loretta,Lomela,Loretta_Lome,2.33,0.128,NA,NA,Kin,2.202,0.895850285,Bonobo,1,YoungAdult,Loretta_Lomela,Ikela_Loretta,0.425854108
+Ikela,27.21971253,Ikela_Herm_Loretta,F,Kumamoto Bonobos,13,F,Loretta,Hermien,Herm_Loretta,1.566,0.848,NA,NA,Kin,0.718,0.297431649,Bonobo,1,YoungAdult,Loretta_Hermien,Ikela_Loretta,-0.361957199
+Ikela,27.21971253,Ikela_Lome_Loretta,F,Kumamoto Bonobos,29,F,Loretta,Lomela,Lome_Loretta,2.077,0.385,NA,NA,Kin,1.692,0.687246141,Bonobo,1,YoungAdult,Loretta_Lomela,Ikela_Loretta,1.213665415
+Ikela,27.21971253,Ikela_Maka_Kaso,F,Kumamoto Bonobos,10,M,Makasi,Kasongo,Maka_Kaso,1.6,0.869,5.48,8.43,Nonkin,0.731,0.296071284,Bonobo,1,Adolescent,Makasi_Kasongo,Ikela_Makasi,-0.657386439
+Ikela,27.21971253,Ikela_Api_Maka,F,Kumamoto Bonobos,18,M,Makasi,Api,Api_Maka,0.515,1.979,5.48,8.43,Nonkin,-1.464,-0.587008821,Bonobo,1,Adolescent,Makasi_Api,Ikela_Makasi,0.130424868
+Ikela,27.21971253,Ikela_Kaso_Maka,F,Kumamoto Bonobos,2,M,Makasi,Kasongo,Kaso_Maka,2.317,0.274,5.48,8.43,Nonkin,2.043,0.788498649,Bonobo,1,Adolescent,Makasi_Kasongo,Ikela_Makasi,-1.445197745
+Ikela,27.21971253,Ikela_Maka_Api,F,Kumamoto Bonobos,26,M,Makasi,Api,Maka_Api,1.76,0.334,5.48,8.43,Nonkin,1.426,0.680993314,Bonobo,1,Adolescent,Makasi_Api,Ikela_Makasi,0.918236175
+Junior,24.08761123,Junior_Kire_Erin,M,Kumamoto Bonobos,17,M,Erin,Kirembo,Kire_Erin,0.241,1.201,5.48,1.49,Nonkin,-0.96,-0.665742025,Bonobo,1,YoungAdult,Erin_Kirembo,Junior_Erin,0.031948455
+Junior,24.08761123,Junior_Kido_Erin,M,Kumamoto Bonobos,25,M,Erin,Kidogo,Kido_Erin,0.248,0.188,5.48,1.49,Nonkin,0.06,0.137614679,Bonobo,1,YoungAdult,Erin_Kidogo,Junior_Erin,0.819759761
+Junior,24.08761123,Junior_Erin_Kire,M,Kumamoto Bonobos,1,M,Erin,Kirembo,Erin_Kire,1.705,0.544,5.48,1.49,Nonkin,1.161,0.516229435,Bonobo,1,YoungAdult,Erin_Kirembo,Junior_Erin,-1.543674159
+Junior,24.08761123,Junior_Erin_Kido,M,Kumamoto Bonobos,9,M,Erin,Kidogo,Erin_Kido,1.325,0.511,5.48,1.49,Nonkin,0.814,0.44335512,Bonobo,1,YoungAdult,Erin_Kidogo,Junior_Erin,-0.755862852
+Junior,24.08761123,Junior_Jas_Kalli,M,Kumamoto Bonobos,6,F,Kalli,Jasiri,Jas_Kalli,0.421,0.208,5.48,1.49,Nonkin,0.213,0.33863275,Bonobo,1,Adolescent,Kalli_Jasiri,Junior_Kalli,-1.051292092
+Junior,24.08761123,Junior_Ling_Kalli,M,Kumamoto Bonobos,14,F,Kalli,Lingoye,Ling_Kalli,0.668,1.297,5.48,1.49,Nonkin,-0.629,-0.320101781,Bonobo,1,Adolescent,Kalli_Lingoye,Junior_Kalli,-0.263480785
+Junior,24.08761123,Junior_Kalli_Ling,M,Kumamoto Bonobos,32,F,Kalli,Lingoye,Kalli_Ling,0.94,0.438,5.48,1.49,Nonkin,0.502,0.364296081,Bonobo,1,Adolescent,Kalli_Lingoye,Junior_Kalli,1.509094655
+Junior,24.08761123,Junior_Kalli_Jas,M,Kumamoto Bonobos,22,F,Kalli,Jasiri,Kalli_Jas,0.494,0.178,5.48,1.49,Nonkin,0.316,0.470238095,Bonobo,1,Adolescent,Kalli_Jasiri,Junior_Kalli,0.524330521
+Junior,24.08761123,Junior_Loretta_Lome,M,Kumamoto Bonobos,5,F,Loretta,Lomela,Loretta_Lome,0.174,0.271,NA,NA,Kin,-0.097,-0.217977528,Bonobo,1,YoungAdult,Loretta_Lomela,Junior_Loretta,-1.149768505
+Junior,24.08761123,Junior_Loretta_Herm,M,Kumamoto Bonobos,13,F,Loretta,Hermien,Loretta_Herm,1.09,0.618,NA,NA,Kin,0.472,0.276346604,Bonobo,1,YoungAdult,Loretta_Hermien,Junior_Loretta,-0.361957199
+Junior,24.08761123,Junior_Lome_Loretta,M,Kumamoto Bonobos,21,F,Loretta,Lomela,Lome_Loretta,0.274,0.361,NA,NA,Kin,-0.087,-0.137007874,Bonobo,1,YoungAdult,Loretta_Lomela,Junior_Loretta,0.425854108
+Junior,24.08761123,Junior_Herm_Loretta,M,Kumamoto Bonobos,29,F,Loretta,Hermien,Herm_Loretta,0.148,0.148,NA,NA,Kin,0,0,Bonobo,1,YoungAdult,Loretta_Hermien,Junior_Loretta,1.213665415
+Junior,24.08761123,Junior_Api_Maka,M,Kumamoto Bonobos,2,M,Makasi,Api,Api_Maka,1.444,0.837,5.48,9.61,Nonkin,0.607,0.266111355,Bonobo,1,Adolescent,Makasi_Api,Junior_Makasi,-1.445197745
+Junior,24.08761123,Junior_Kaso_Maka,M,Kumamoto Bonobos,10,M,Makasi,Kasongo,Kaso_Maka,1.501,0.238,5.48,9.61,Nonkin,1.263,0.726279471,Bonobo,1,Adolescent,Makasi_Kasongo,Junior_Makasi,-0.657386439
+Junior,24.08761123,Junior_Maka_Api,M,Kumamoto Bonobos,18,M,Makasi,Api,Maka_Api,1.997,0.181,5.48,9.61,Nonkin,1.816,0.83379247,Bonobo,1,Adolescent,Makasi_Api,Junior_Makasi,0.130424868
+Junior,24.08761123,Junior_Maka_Kaso,M,Kumamoto Bonobos,26,M,Makasi,Kasongo,Maka_Kaso,0.164,0.211,5.48,9.61,Nonkin,-0.047,-0.125333333,Bonobo,1,Adolescent,Makasi_Kasongo,Junior_Makasi,0.918236175
+Lenore,37.03216975,Lenore_Kido_Erin,F,Kumamoto Bonobos,17,M,Erin,Kidogo,Kido_Erin,1.387,0.908,5.48,21.36,Nonkin,0.479,0.208714597,Bonobo,1,YoungAdult,Erin_Kidogo,Lenore_Erin,0.031948455
+Lenore,37.03216975,Lenore_Kire_Erin,F,Kumamoto Bonobos,1,M,Erin,Kirembo,Kire_Erin,1.379,0.705,5.48,21.36,Nonkin,0.674,0.323416507,Bonobo,1,YoungAdult,Erin_Kirembo,Lenore_Erin,-1.543674159
+Lenore,37.03216975,Lenore_Erin_Kire,F,Kumamoto Bonobos,9,M,Erin,Kirembo,Erin_Kire,0.961,0.318,5.48,21.36,Nonkin,0.643,0.502736513,Bonobo,1,YoungAdult,Erin_Kirembo,Lenore_Erin,-0.755862852
+Lenore,37.03216975,Lenore_Erin_Kido,F,Kumamoto Bonobos,25,M,Erin,Kidogo,Erin_Kido,1.265,0.255,5.48,21.36,Nonkin,1.01,0.664473684,Bonobo,1,YoungAdult,Erin_Kidogo,Lenore_Erin,0.819759761
+Lenore,37.03216975,Lenore_Kalli_Ling,F,Kumamoto Bonobos,22,F,Kalli,Lingoye,Kalli_Ling,1.372,0.72,5.48,8.71,Nonkin,0.652,0.31166348,Bonobo,1,Adolescent,Kalli_Lingoye,Lenore_Kalli,0.524330521
+Lenore,37.03216975,Lenore_Ling_Kalli,F,Kumamoto Bonobos,29,F,Kalli,Lingoye,Ling_Kalli,1.545,0.307,5.48,8.71,Nonkin,1.238,0.668466523,Bonobo,1,Adolescent,Kalli_Lingoye,Lenore_Kalli,1.213665415
+Lenore,37.03216975,Lenore_Kalli_Jas,F,Kumamoto Bonobos,6,F,Kalli,Jasiri,Kalli_Jas,1.218,0.657,5.48,8.71,Nonkin,0.561,0.2992,Bonobo,1,Adolescent,Kalli_Jasiri,Lenore_Kalli,-1.051292092
+Lenore,37.03216975,Lenore_Jas_Kalli,F,Kumamoto Bonobos,14,F,Kalli,Jasiri,Jas_Kalli,1.523,0.848,5.48,8.71,Nonkin,0.675,0.284690004,Bonobo,1,Adolescent,Kalli_Jasiri,Lenore_Kalli,-0.263480785
+Lenore,37.03216975,Lenore_Loretta_Herm,F,Kumamoto Bonobos,28,F,Loretta,Hermien,Loretta_Herm,0.301,0.434,NA,NA,Kin,-0.133,-0.180952381,Bonobo,1,YoungAdult,Loretta_Hermien,Lenore_Loretta,1.115189002
+Lenore,37.03216975,Lenore_Herm_Loretta,F,Kumamoto Bonobos,21,F,Loretta,Hermien,Herm_Loretta,1.984,0.871,NA,NA,Kin,1.113,0.389842382,Bonobo,1,YoungAdult,Loretta_Hermien,Lenore_Loretta,0.425854108
+Lenore,37.03216975,Lenore_Loretta_Lome,F,Kumamoto Bonobos,13,F,Loretta,Lomela,Loretta_Lome,0.637,0.315,NA,NA,Kin,0.322,0.338235294,Bonobo,1,YoungAdult,Loretta_Lomela,Lenore_Loretta,-0.361957199
+Lenore,37.03216975,Lenore_Lome_Loretta,F,Kumamoto Bonobos,5,F,Loretta,Lomela,Lome_Loretta,1.661,1.101,NA,NA,Kin,0.56,0.202751629,Bonobo,1,YoungAdult,Loretta_Lomela,Lenore_Loretta,-1.149768505
+Lolita,29.82340862,Lolita_Kire_Erin,F,Kumamoto Bonobos,21,M,Erin,Kirembo,Kire_Erin,0.584,1.348,5.48,2.72,Nonkin,-0.764,-0.395445135,Bonobo,1,YoungAdult,Erin_Kirembo,Lolita_Erin,0.425854108
+Lolita,29.82340862,Lolita_Erin_Kido,F,Kumamoto Bonobos,13,M,Erin,Kidogo,Erin_Kido,1.712,0.355,5.48,2.72,Nonkin,1.357,0.656507015,Bonobo,1,YoungAdult,Erin_Kidogo,Lolita_Erin,-0.361957199
+Lolita,29.82340862,Lolita_Erin_Kire,F,Kumamoto Bonobos,5,M,Erin,Kirembo,Erin_Kire,1.021,0.641,5.48,2.72,Nonkin,0.38,0.228640193,Bonobo,1,YoungAdult,Erin_Kirembo,Lolita_Erin,-1.149768505
+Lolita,29.82340862,Lolita_Kido_Erin,F,Kumamoto Bonobos,28,M,Erin,Kidogo,Kido_Erin,0.834,0.798,5.48,2.72,Nonkin,0.036,0.022058824,Bonobo,1,YoungAdult,Erin_Kidogo,Lolita_Erin,1.115189002
+Lolita,29.82340862,Lolita_Ling_Kalli,F,Kumamoto Bonobos,10,F,Kalli,Lingoye,Ling_Kalli,0.968,0.178,5.48,1.49,Nonkin,0.79,0.689354276,Bonobo,1,Adolescent,Kalli_Lingoye,Lolita_Kalli,-0.657386439
+Lolita,29.82340862,Lolita_Jas_Kalli,F,Kumamoto Bonobos,2,F,Kalli,Jasiri,Jas_Kalli,1.236,0.371,5.48,1.49,Nonkin,0.865,0.538270068,Bonobo,1,Adolescent,Kalli_Jasiri,Lolita_Kalli,-1.445197745
+Lolita,29.82340862,Lolita_Kalli_Ling,F,Kumamoto Bonobos,25,F,Kalli,Lingoye,Kalli_Ling,0.437,0.128,5.48,1.49,Nonkin,0.309,0.546902655,Bonobo,1,Adolescent,Kalli_Lingoye,Lolita_Kalli,0.819759761
+Lolita,29.82340862,Lolita_Kalli_Jas,F,Kumamoto Bonobos,18,F,Kalli,Jasiri,Kalli_Jas,0.561,0.234,5.48,1.49,Nonkin,0.327,0.411320755,Bonobo,1,Adolescent,Kalli_Jasiri,Lolita_Kalli,0.130424868
+Lolita,29.82340862,Lolita_Lome_Loretta,F,Kumamoto Bonobos,17,F,Loretta,Lomela,Lome_Loretta,0.518,0.248,NA,NA,Kin,0.27,0.352480418,Bonobo,1,YoungAdult,Loretta_Lomela,Lolita_Loretta,0.031948455
+Lolita,29.82340862,Lolita_Loretta_Herm,F,Kumamoto Bonobos,9,F,Loretta,Hermien,Loretta_Herm,0.518,0.391,NA,NA,Kin,0.127,0.139713971,Bonobo,1,YoungAdult,Loretta_Hermien,Lolita_Loretta,-0.755862852
+Lolita,29.82340862,Lolita_Loretta_Lome,F,Kumamoto Bonobos,1,F,Loretta,Lomela,Loretta_Lome,0.164,0.254,NA,NA,Kin,-0.09,-0.215311005,Bonobo,1,YoungAdult,Loretta_Lomela,Lolita_Loretta,-1.543674159
+Lolita,29.82340862,Lolita_Herm_Loretta,F,Kumamoto Bonobos,24,F,Loretta,Hermien,Herm_Loretta,0.7,0.307,NA,NA,Kin,0.393,0.390268123,Bonobo,1,YoungAdult,Loretta_Hermien,Lolita_Loretta,0.721283348
+Lolita,29.82340862,Lolita_Maka_Kaso,F,Kumamoto Bonobos,29,M,Makasi,Kasongo,Maka_Kaso,0.502,0.428,5.48,9.61,Nonkin,0.074,0.079569892,Bonobo,1,Adolescent,Makasi_Kasongo,Lolita_Makasi,1.213665415
+Lolita,29.82340862,Lolita_Api_Maka,F,Kumamoto Bonobos,6,M,Makasi,Api,Api_Maka,0.504,0.374,5.48,9.61,Nonkin,0.13,0.148063781,Bonobo,1,Adolescent,Makasi_Api,Lolita_Makasi,-1.051292092
+Lolita,29.82340862,Lolita_Maka_Api,F,Kumamoto Bonobos,22,M,Makasi,Api,Maka_Api,0.78,0.334,5.48,9.61,Nonkin,0.446,0.400359066,Bonobo,1,Adolescent,Makasi_Api,Lolita_Makasi,0.524330521
+Lolita,29.82340862,Lolita_Kaso_Maka,F,Kumamoto Bonobos,14,M,Makasi,Kasongo,Kaso_Maka,0.617,0.505,5.48,9.61,Nonkin,0.112,0.099821747,Bonobo,1,Adolescent,Makasi_Kasongo,Lolita_Makasi,-0.263480785
+Louise,46.29979466,Louise_Erin_Kire,F,Kumamoto Bonobos,21,M,Erin,Kirembo,Erin_Kire,1.34,0.528,NA,NA,Kin,0.812,0.434689507,Bonobo,1,YoungAdult,Erin_Kirembo,Louise_Erin,0.425854108
+Louise,46.29979466,Louise_Kido_Erin,F,Kumamoto Bonobos,13,M,Erin,Kidogo,Kido_Erin,1.062,0.921,NA,NA,Kin,0.141,0.071104387,Bonobo,1,YoungAdult,Erin_Kidogo,Louise_Erin,-0.361957199
+Louise,46.29979466,Louise_Kire_Erin,F,Kumamoto Bonobos,29,M,Erin,Kirembo,Kire_Erin,1.007,0.584,NA,NA,Kin,0.423,0.265870522,Bonobo,1,YoungAdult,Erin_Kirembo,Louise_Erin,1.213665415
+Louise,46.29979466,Louise_Erin_Kido,F,Kumamoto Bonobos,5,M,Erin,Kidogo,Erin_Kido,1.168,0.925,NA,NA,Kin,0.243,0.11610129,Bonobo,1,YoungAdult,Erin_Kidogo,Louise_Erin,-1.149768505
+Louise,46.29979466,Louise_Ling_Kalli,F,Kumamoto Bonobos,2,F,Kalli,Lingoye,Ling_Kalli,2.021,0.315,NA,NA,Kin,1.706,0.730308219,Bonobo,1,Adolescent,Kalli_Lingoye,Louise_Kalli,-1.445197745
+Louise,46.29979466,Louise_Kalli_Ling,F,Kumamoto Bonobos,10,F,Kalli,Lingoye,Kalli_Ling,1.787,0.241,NA,NA,Kin,1.546,0.762327416,Bonobo,1,Adolescent,Kalli_Lingoye,Louise_Kalli,-0.657386439
+Louise,46.29979466,Louise_Kalli_Jas,F,Kumamoto Bonobos,26,F,Kalli,Jasiri,Kalli_Jas,1.356,0,NA,NA,Kin,1.356,1,Bonobo,1,Adolescent,Kalli_Jasiri,Louise_Kalli,0.918236175
+Louise,46.29979466,Louise_Jas_Kalli,F,Kumamoto Bonobos,18,F,Kalli,Jasiri,Jas_Kalli,1.532,0.997,NA,NA,Kin,0.535,0.211546066,Bonobo,1,Adolescent,Kalli_Jasiri,Louise_Kalli,0.130424868
+Louise,46.29979466,Louise_Lome_Loretta,F,Kumamoto Bonobos,25,F,Loretta,Lomela,Lome_Loretta,1.87,0.548,NA,NA,Kin,1.322,0.546732837,Bonobo,1,YoungAdult,Loretta_Lomela,Louise_Loretta,0.819759761
+Louise,46.29979466,Louise_Loretta_Lome,F,Kumamoto Bonobos,17,F,Loretta,Lomela,Loretta_Lome,1.087,1.154,NA,NA,Kin,-0.067,-0.029897367,Bonobo,1,YoungAdult,Loretta_Lomela,Louise_Loretta,0.031948455
+Louise,46.29979466,Louise_Loretta_Herm,F,Kumamoto Bonobos,1,F,Loretta,Hermien,Loretta_Herm,1.725,0.521,NA,NA,Kin,1.204,0.536064114,Bonobo,1,YoungAdult,Loretta_Hermien,Louise_Loretta,-1.543674159
+Louise,46.29979466,Louise_Herm_Loretta,F,Kumamoto Bonobos,9,F,Loretta,Hermien,Herm_Loretta,1,0.358,NA,NA,Kin,0.642,0.47275405,Bonobo,1,YoungAdult,Loretta_Hermien,Louise_Loretta,-0.755862852
+Louise,46.29979466,Louise_Maka_Api,F,Kumamoto Bonobos,30,M,Makasi,Api,Maka_Api,0.787,1.645,NA,NA,Kin,-0.858,-0.352796053,Bonobo,1,Adolescent,Makasi_Api,Louise_Makasi,1.312141828
+Louise,46.29979466,Louise_Kaso_Maka,F,Kumamoto Bonobos,6,M,Makasi,Kasongo,Kaso_Maka,1.144,0.664,NA,NA,Kin,0.48,0.265486726,Bonobo,1,Adolescent,Makasi_Kasongo,Louise_Makasi,-1.051292092
+Louise,46.29979466,Louise_Api_Maka,F,Kumamoto Bonobos,22,M,Makasi,Api,Api_Maka,0.918,0.865,NA,NA,Kin,0.053,0.029725182,Bonobo,1,Adolescent,Makasi_Api,Louise_Makasi,0.524330521
+Louise,46.29979466,Louise_Maka_Kaso,F,Kumamoto Bonobos,14,M,Makasi,Kasongo,Maka_Kaso,1.247,1.044,NA,NA,Kin,0.203,0.088607595,Bonobo,1,Adolescent,Makasi_Kasongo,Louise_Makasi,-0.263480785
